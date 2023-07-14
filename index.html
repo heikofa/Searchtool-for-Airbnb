@@ -3,6 +3,7 @@
 <head>
   <title>Seach URL Generator</title>
   <!-- Add Bootstrap CSS -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
   <script>
     function decreaseCount(category) {
@@ -154,6 +155,7 @@
       }
     }
   </script>
+  
 </head>
 <body>
   <div class="container mt-5">
@@ -487,405 +489,16 @@
           <div id="superfilter-collapse" class="accordion-collapse collapse" aria-labelledby="superfilter-heading" data-bs-parent="#amenities-accordion">
             <div class="accordion-body">
                 <div class="row">
-                    <div class="col-md-4">
-              <div class="form-check">
-                <input type="checkbox" id="air-conditioning" value="5" onchange="generateURL()" class="form-check-input">
-                <label for="air-conditioning" class="form-check-label">Air Conditioning</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="babysitter-recommendations" value="70" onchange="generateURL()" class="form-check-input">
-                <label for="babysitter-recommendations" class="form-check-label">Babysitter Recommendations</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="backyard" value="101" onchange="generateURL()" class="form-check-input">
-                <label for="backyard" class="form-check-label">Backyard</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="bathtub" value="61" onchange="generateURL()" class="form-check-input">
-                <label for="bathtub" class="form-check-label">Bathtub</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="bbq-grill" value="99" onchange="generateURL()" class="form-check-input">
-                <label for="bbq-grill" class="form-check-label">BBQ Grill</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="beach-access" value="674" onchange="generateURL()" class="form-check-input">
-                <label for="beach-access" class="form-check-label">Beach Access</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="bed-linens" value="85" onchange="generateURL()" class="form-check-input">
-                <label for="bed-linens" class="form-check-label">Bed Linens</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="blender" value="322" onchange="generateURL()" class="form-check-input">
-                <label for="blender" class="form-check-label">Blender</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="board-games" value="392" onchange="generateURL()" class="form-check-input">
-                <label for="board-games" class="form-check-label">Board Games</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="body-soap" value="79" onchange="generateURL()" class="form-check-input">
-                <label for="body-soap" class="form-check-label">Body Soap</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="books-reading-material" value="394" onchange="generateURL()" class="form-check-input">
-                <label for="books-reading-material" class="form-check-label">Books &amp; Reading Material</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="ceiling-fan" value="139" onchange="generateURL()" class="form-check-input">
-                <label for="ceiling-fan" class="form-check-label">Ceiling Fan</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="childrens-books-toys" value="66" onchange="generateURL()" class="form-check-input">
-                <label for="childrens-books-toys" class="form-check-label">Children's Books &amp; Toys</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="childrens-dinnerware" value="74" onchange="generateURL()" class="form-check-input">
-                <label for="childrens-dinnerware" class="form-check-label">Children's Dinnerware</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="cleaning-before-checkout" value="107" onchange="generateURL()" class="form-check-input">
-                <label for="cleaning-before-checkout" class="form-check-label">Cleaning Before Checkout</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="cleaning-products" value="665" onchange="generateURL()" class="form-check-input">
-                <label for="cleaning-products" class="form-check-label">Cleaning Products</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="clothing-storage" value="671" onchange="generateURL()" class="form-check-input">
-                <label for="clothing-storage" class="form-check-label">Clothing Storage</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="coffee" value="415" onchange="generateURL()" class="form-check-input">
-                <label for="coffee" class="form-check-label">Coffee</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="coffee-maker" value="90" onchange="generateURL()" class="form-check-input">
-                <label for="coffee-maker" class="form-check-label">Coffee Maker</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="conditioner" value="657" onchange="generateURL()" class="form-check-input">
-                <label for="conditioner" class="form-check-label">Conditioner</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="crib" value="72" onchange="generateURL()" class="form-check-input">
-                <label for="crib" class="form-check-label">Crib</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="dedicated-workspace" value="47" onchange="generateURL()" class="form-check-input">
-                <label for="dedicated-workspace" class="form-check-label">Dedicated Workspace</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="dining-table" value="236" onchange="generateURL()" class="form-check-input">
-                <label for="dining-table" class="form-check-label">Dining Table</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="dishwasher" value="92" onchange="generateURL()" class="form-check-input">
-                <label for="dishwasher" class="form-check-label">Dishwasher</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="dryer" value="34" onchange="generateURL()" class="form-check-input">
-                <label for="dryer" class="form-check-label">Dryer</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="drying-rack-for-clothing" value="667" onchange="generateURL()" class="form-check-input">
-                <label for="drying-rack-for-clothing" class="form-check-label">Drying Rack For Clothing</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="electric-vehicle-charger" value="97" onchange="generateURL()" class="form-check-input">
-                <label for="electric-vehicle-charger" class="form-check-label">Electric Vehicle Charger</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="essentials-baking-sheet" value="625" onchange="generateURL()" class="form-check-input">
-                <label for="essentials-baking-sheet" class="form-check-label">Essentials: Baking Sheet</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="essentials-beach-towels-umbrella" value="102" onchange="generateURL()" class="form-check-input">
-                <label for="essentials-beach-towels-umbrella" class="form-check-label">Essentials: Beach towels, umbrella</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="essentials-extra-pillows-blankets" value="86" onchange="generateURL()" class="form-check-input">
-                <label for="essentials-extra-pillows-blankets" class="form-check-label">Essentials: Extra pillows &amp; blankets</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="essentials-pots-pans-oil" value="94" onchange="generateURL()" class="form-check-input">
-                <label for="essentials-pots-pans-oil" class="form-check-label">Essentials: Pots, pans, oil</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="essentials-towels-bed-sheets" value="40" onchange="generateURL()" class="form-check-input">
-                <label for="essentials-towels-bed-sheets" class="form-check-label">Essentials: Towels, bed sheets</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="essentials-bowls-plates-cups" value="93" onchange="generateURL()" class="form-check-input">
-                <label for="essentials-bowls-plates-cups" class="form-check-label">Essentials: Bowls, plates, cups</label>
-              </div>
-              </div>
-            <div class="col-md-4">
-              <div class="form-check">
-                <input type="checkbox" id="essentials-pots-pans-oil-salt-pepper" value="94" onchange="generateURL()" class="form-check-input">
-                <label for="essentials-pots-pans-oil-salt-pepper" class="form-check-label">Essentials: Pots, pans, oil, salt, pepper</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="ethernet-connection" value="87" onchange="generateURL()" class="form-check-input">
-                <label for="ethernet-connection" class="form-check-label">Ethernet Connection</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="ev-charger" value="97" onchange="generateURL()" class="form-check-input">
-                <label for="ev-charger" class="form-check-label">EV Charger</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="exercise-equipment" value="227" onchange="generateURL()" class="form-check-input">
-                <label for="exercise-equipment" class="form-check-label">Exercise Equipment</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="fan" value="522" onchange="generateURL()" class="form-check-input">
-                <label for="fan" class="form-check-label">Fan</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="fire-extinguisher" value="39" onchange="generateURL()" class="form-check-input">
-                <label for="fire-extinguisher" class="form-check-label">Fire Extinguisher</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="fire-pit" value="219" onchange="generateURL()" class="form-check-input">
-                <label for="fire-pit" class="form-check-label">Fire Pit</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="fireplace" value="27" onchange="generateURL()" class="form-check-input">
-                <label for="fireplace" class="form-check-label">Fireplace</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="fireplace-guards" value="69" onchange="generateURL()" class="form-check-input">
-                <label for="fireplace-guards" class="form-check-label">Fireplace Guards</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="first-aid-kit" value="37" onchange="generateURL()" class="form-check-input">
-                <label for="first-aid-kit" class="form-check-label">First Aid Kit</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="free-parking-on-premises" value="9" onchange="generateURL()" class="form-check-input">
-                <label for="free-parking-on-premises" class="form-check-label">Free Parking On Premises</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="free-street-parking" value="23" onchange="generateURL()" class="form-check-input">
-                <label for="free-street-parking" class="form-check-label">Free Street Parking</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="freezer" value="308" onchange="generateURL()" class="form-check-input">
-                <label for="freezer" class="form-check-label">Freezer</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="fridge" value="91" onchange="generateURL()" class="form-check-input">
-                <label for="fridge" class="form-check-label">Refrigerator</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="gym" value="15" onchange="generateURL()" class="form-check-input">
-                <label for="gym" class="form-check-label">Gym</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="hair-dryer" value="45" onchange="generateURL()" class="form-check-input">
-                <label for="hair-dryer" class="form-check-label">Hair Dryer</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="hammock" value="153" onchange="generateURL()" class="form-check-input">
-                <label for="hammock" class="form-check-label">Hammock</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="hangers" value="44" onchange="generateURL()" class="form-check-input">
-                <label for="hangers" class="form-check-label">Hangers</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="heating" value="30" onchange="generateURL()" class="form-check-input">
-                <label for="heating" class="form-check-label">Heating</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="high-chair" value="64" onchange="generateURL()" class="form-check-input">
-                <label for="high-chair" class="form-check-label">High Chair</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="hot-tub" value="25" onchange="generateURL()" class="form-check-input">
-                <label for="hot-tub" class="form-check-label">Hot Tub</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="hot-water" value="77" onchange="generateURL()" class="form-check-input">
-                <label for="hot-water" class="form-check-label">Hot Water</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="hot-water-kettle" value="137" onchange="generateURL()" class="form-check-input">
-                <label for="hot-water-kettle" class="form-check-label">Hot Water Kettle</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="indoor-fireplace" value="27" onchange="generateURL()" class="form-check-input">
-                <label for="indoor-fireplace" class="form-check-label">Indoor Fireplace</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="iron" value="46" onchange="generateURL()" class="form-check-input">
-                <label for="iron" class="form-check-label">Iron</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="kayak" value="172" onchange="generateURL()" class="form-check-input">
-                <label for="kayak" class="form-check-label">Kayak</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="keypad-entry" value="53" onchange="generateURL()" class="form-check-input">
-                <label for="keypad-entry" class="form-check-label">Keypad Entry</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="kitchen" value="8" onchange="generateURL()" class="form-check-input">
-                <label for="kitchen" class="form-check-label">Kitchen</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="lake-access" value="133" onchange="generateURL()" class="form-check-input">
-                <label for="lake-access" class="form-check-label">Lake Access</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="laundromat-nearby" value="663" onchange="generateURL()" class="form-check-input">
-                <label for="laundromat-nearby" class="form-check-label">Laundromat Nearby</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="lockbox" value="54" onchange="generateURL()" class="form-check-input">
-                <label for="lockbox" class="form-check-label">Lockbox</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="long-term-stays-allowed" value="104" onchange="generateURL()" class="form-check-input">
-                <label for="long-term-stays-allowed" class="form-check-label">Long Term Stays Allowed</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="luggage-drop-off-allowed" value="103" onchange="generateURL()" class="form-check-input">
-                <label for="luggage-drop-off-allowed" class="form-check-label">Luggage Drop Off Allowed</label>
-              </div>
-            </div>
-          <div class="col-md-4">
-              <div class="form-check">
-                <input type="checkbox" id="microwave" value="89" onchange="generateURL()" class="form-check-input">
-                <label for="microwave" class="form-check-label">Microwave</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="mini-fridge" value="146" onchange="generateURL()" class="form-check-input">
-                <label for="mini-fridge" class="form-check-label">Mini Fridge</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="outdoor-dining-area" value="179" onchange="generateURL()" class="form-check-input">
-                <label for="outdoor-dining-area" class="form-check-label">Outdoor Dining Area</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="outdoor-furniture" value="280" onchange="generateURL()" class="form-check-input">
-                <label for="outdoor-furniture" class="form-check-label">Outdoor Furniture</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="oven" value="95" onchange="generateURL()" class="form-check-input">
-                <label for="oven" class="form-check-label">Oven</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="patio-balcony" value="100" onchange="generateURL()" class="form-check-input">
-                <label for="patio-balcony" class="form-check-label">Patio / Balcony</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="pets-allowed" value="12" onchange="generateURL()" class="form-check-input">
-                <label for="pets-allowed" class="form-check-label">Pets Allowed</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="ping-pong-table" value="515" onchange="generateURL()" class="form-check-input">
-                <label for="ping-pong-table" class="form-check-label">Ping Pong Table</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="pool-table" value="521" onchange="generateURL()" class="form-check-input">
-                <label for="pool-table" class="form-check-label">Pool Table</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="portable-fans" value="522" onchange="generateURL()" class="form-check-input">
-                <label for="portable-fans" class="form-check-label">Portable Fans</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="private-entrance" value="57" onchange="generateURL()" class="form-check-input">
-                <label for="private-entrance" class="form-check-label">Private Entrance</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="private-pool" value="258" onchange="generateURL()" class="form-check-input">
-                <label for="private-pool" class="form-check-label">Private Pool</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="record-player" value="527" onchange="generateURL()" class="form-check-input">
-                <label for="record-player" class="form-check-label">Record Player</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="refrigerator" value="91" onchange="generateURL()" class="form-check-input">
-                <label for="refrigerator" class="form-check-label">Refrigerator</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="room-darkening-shades" value="73" onchange="generateURL()" class="form-check-input">
-                <label for="room-darkening-shades" class="form-check-label">Room Darkening Shades</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="sauna" value="223" onchange="generateURL()" class="form-check-input">
-                <label for="sauna" class="form-check-label">Sauna</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="self-check-in" value="51" onchange="generateURL()" class="form-check-input">
-                <label for="self-check-in" class="form-check-label">Self Check-In</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="shampoo" value="41" onchange="generateURL()" class="form-check-input">
-                <label for="shampoo" class="form-check-label">Shampoo</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="shower-gel" value="611" onchange="generateURL()" class="form-check-input">
-                <label for="shower-gel" class="form-check-label">Shower Gel</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="single-level-home" value="98" onchange="generateURL()" class="form-check-input">
-                <label for="single-level-home" class="form-check-label">Single Level Home</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="smart-lock-entry" value="52" onchange="generateURL()" class="form-check-input">
-                <label for="smart-lock-entry" class="form-check-label">Smart Lock Entry</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="smoke-alarm" value="35" onchange="generateURL()" class="form-check-input">
-                <label for="smoke-alarm" class="form-check-label">Smoke Alarm</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="snorkeling-gear" value="102" onchange="generateURL()" class="form-check-input">
-                <label for="snorkeling-gear" class="form-check-label">Snorkeling Gear</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="sound-system" value="185" onchange="generateURL()" class="form-check-input">
-                <label for="sound-system" class="form-check-label">Sound System</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="stove" value="96" onchange="generateURL()" class="form-check-input">
-                <label for="stove" class="form-check-label">Stove</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="toaster" value="251" onchange="generateURL()" class="form-check-input">
-                <label for="toaster" class="form-check-label">Toaster</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="towels-bed-sheets" value="40" onchange="generateURL()" class="form-check-input">
-                <label for="towels-bed-sheets" class="form-check-label">Towels, Bed Sheets, Soap, Toilet Paper</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="tv" value="1" onchange="generateURL()" class="form-check-input">
-                <label for="tv" class="form-check-label">Television</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="washer" value="33" onchange="generateURL()" class="form-check-input">
-                <label for="washer" class="form-check-label">Washer</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="waterfront" value="132" onchange="generateURL()" class="form-check-input">
-                <label for="waterfront" class="form-check-label">Waterfront</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="wifi" value="4" onchange="generateURL()" class="form-check-input">
-                <label for="wifi" class="form-check-label">Wifi</label>
-              </div>
-              <div class="form-check">
-                <input type="checkbox" id="wine-glasses" value="672" onchange="generateURL()" class="form-check-input">
-                <label for="wine-glasses" class="form-check-label">Wine Glasses</label>
-              </div>
-            </div>
-        </div>
+                  <div class="col-md-4" id="amenityFirstColum">
+                    
+                  </div>
+                  <div class="col-md-4" id="amenitySecondColum">
+                    
+                  </div>
+                  <div class="col-md-4" id="amenityThirdColum">
+                    
+                  </div>
+                </div>
             </div>
           </div>
         </div>
@@ -902,5 +515,34 @@
 
   <!-- Add Bootstrap JS -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script>
+    $(document).ready(function() {
+        var amenitiesList = $('#amenities-list');
+
+        // Load JSON data from file
+        $.getJSON('codes.json', function(jsonData) {
+            // Iterate over each item in the JSON data
+            amenities=JSON.parse(jsonData)
+            for(let i=0;i<jsonData.length; i++){
+              colum="amenityThirdColum"
+              if(i<2*Math.ceil(jsonData.length/3)){
+                colum="amenitySecondColum"
+              }
+              if(i<Math.ceil(jsonData.length/3)){
+                colum="amenityFirstColum"
+              }
+              str='<div class="form-check"><input type="checkbox" id="cb'+jsonData[i].id+'" value="'+jsonData[i].id+'" onchange="generateURL()" class="form-check-input"><label for="cb'+jsonData[i].id+'" class="form-check-label">'+jsonData[i].amenity+'</label></div>'
+              documend.getElementById(colum).insertAdjacentHTML( 'beforeend', str );              
+            } 
+            $.each(jsonData, function(index, item) {
+                // Create a new list item
+                var listItem = $('<li>').text(item.amenity);
+
+                // Append the list item to the amenities list
+                amenitiesList.append(listItem);
+            });
+        });
+    });
+  </script>
 </body>
 </html>
