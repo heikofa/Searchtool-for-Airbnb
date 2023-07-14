@@ -522,7 +522,7 @@
         // Load JSON data from file
         $.getJSON('codes.json', function(jsonData) {
             // Iterate over each item in the JSON data
-            amenities=JSON.parse(jsonData)
+            
             for(let i=0;i<jsonData.length; i++){
               colum="amenityThirdColum"
               if(i<2*Math.ceil(jsonData.length/3)){
@@ -534,13 +534,6 @@
               str='<div class="form-check"><input type="checkbox" id="cb'+jsonData[i].id+'" value="'+jsonData[i].id+'" onchange="generateURL()" class="form-check-input"><label for="cb'+jsonData[i].id+'" class="form-check-label">'+jsonData[i].amenity+'</label></div>'
               documend.getElementById(colum).insertAdjacentHTML( 'beforeend', str );              
             } 
-            $.each(jsonData, function(index, item) {
-                // Create a new list item
-                var listItem = $('<li>').text(item.amenity);
-
-                // Append the list item to the amenities list
-                amenitiesList.append(listItem);
-            });
         });
     });
   </script>
