@@ -532,7 +532,7 @@
                 colum="amenityFirstColum"
               }
               str='<div class="form-check"><input type="checkbox" id="cb'+jsonData[i].id+'" value="'+jsonData[i].id+'" onchange="generateURL()" class="form-check-input"><label for="cb'+jsonData[i].id+'" class="form-check-label">'+jsonData[i].amenity+'</label></div>'
-              documend.getElementById(colum).insertAdjacentHTML( 'beforeend', str );              
+              document.getElementById(colum).insertAdjacentHTML( 'beforeend', str );              
             } 
         });
     });
