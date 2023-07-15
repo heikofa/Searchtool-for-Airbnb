@@ -17,6 +17,7 @@
     }
     function getLangCode(){
       url = new URL(window.location.toLocaleString())
+      urlParams=url.searchParams
       if(!urlParams.has("lang")){
         return "en"
       }
