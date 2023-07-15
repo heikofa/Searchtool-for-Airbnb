@@ -352,7 +352,11 @@
           // Iterate over each item in the JSON data    
           for(let i=0;i<jsonData.length; i++){            
             str='<option value="'+jsonData[i][getLangCode()]+'">'+jsonData[i][getLangCode()]+'</option>'
-            document.getElementById(jsonData["en"]).innerHTML(jsonData[getLangCode()]);              
+            tag=document.getElementById(jsonData["en"])
+            if(tag!= null){
+              tag.innerHTML(jsonData[getLangCode()]); 
+            }
+                         
           } 
       });
       // Load JSON data from file
