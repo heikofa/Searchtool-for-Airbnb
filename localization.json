@@ -74,5 +74,9 @@
     "Bathrooms": {
         "en": "Bathrooms",
         "de": "Badezimmer"
+    },
+    "com": {
+        "en": "com",
+        "de": "de"
     }
 }

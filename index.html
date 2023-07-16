@@ -113,7 +113,7 @@
       }
 
       // Build the URL
-      var url = 'https://www.airbnb.com/s/' + encodeURIComponent(country) + '/homes?';
+      var url = 'https://www.airbnb.'+localize("com")+'/s/' + encodeURIComponent(country) + '/homes?';
       url += amenities.join('&'); // Join the amenities parameters with ampersands
 
       if (checkinDate) {
