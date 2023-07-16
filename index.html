@@ -258,7 +258,7 @@
           <div class="mb-3">
             <label for="min-price" class="form-label" id="Minimum price per night">Min Price:</label>
             <div class="input-group">
-              <span class="input-group-text" id="$"></span>
+              <span class="input-group-text currency"></span>
               <input type="number" id="min-price" class="form-control" min="0" onchange="generateURL()">
             </div>
           </div>
@@ -267,7 +267,7 @@
           <div class="mb-3">
             <label for="max-price" class="form-label" id="Maximum price per night">Max Price:</label>
             <div class="input-group">
-              <span class="input-group-text">$</span>
+              <span class="input-group-text currency"></span>
               <input type="number" id="max-price" class="form-control" min="0" onchange="generateURL()">
             </div>
           </div>
@@ -372,6 +372,9 @@
             tag.innerHTML=localize(key) 
           }      
         } 
+        for(span of document.getElementsByClassName("currency")){
+          span.innerHTML=localize("$")
+        }
         document.getElementById("current_flag_icon").innerHTML='<img src="img/'+langCode+'-flag-icon.svg" width="30" alt="'+langCode+'"/>'
         for(key of Object.keys(Object.values(localizationObject)[0])){
           li='<li><a class="dropdown-item" href="#"><img src="img/'+key+'-flag-icon.svg" width="30" alt="'+key+'" onclick="changeLanguage(\''+key+'\')"/></a></li>'
