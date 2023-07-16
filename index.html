@@ -348,12 +348,12 @@
             document.getElementById("country").insertAdjacentHTML( 'beforeend', str );              
           } 
       });
-      $.getJSON('localization.json', function(jsonData) {
+      $.getJSON('localization.json', function(localizationObject) {
           // Iterate over each item in the JSON data    
-          for(let i=0;i<jsonData.length; i++){            
-            tag=document.getElementById(jsonData[i]["en"])
+          for(key of localizationObject.keys){            
+            tag=document.getElementById(localizationObject[key]["en"])
             if(tag!= null){
-              tag.innerHTML=jsonData[i][getLangCode()]; 
+              tag.innerHTML=localizationObject[key][getLangCode()]; 
             }
                          
           } 

@@ -1,78 +1,78 @@
-[
-    {
+{
+    "Generated URL": {
         "en": "Generated URL",
         "de": "Generierte URL"
     },
-    {
+    "Open": {
         "en": "Open",
         "de": "Öffnen"
     },
-    {
+    "Country": {
         "en": "Country",
         "de": "Land"
     },
-    {
+    "Select a Country": {
         "en": "Select a Country",
         "de": "Wähle ein Land"
     },
-    {
+    "Check-in Date": {
         "en": "Check-in Date",
         "de": "Check-in Datum"
     },
-    {
+    "Check-out Date": {
         "en": "Check-out Date",
         "de": "Check-out Datum"
     },
-    {
+    "Adults (Ages 13 or above)": {
         "en": "Adults (Ages 13 or above)",
         "de": "Erwachsene (ab 13 Jahren)"
     },
-    {
+    "Children (Ages 2-12)": {
         "en": "Children (Ages 2-12)",
         "de": "Kinder (2-12 Jahre)"
     },
-    {
+    "Infants (Under 2)": {
         "en": "Infants (Under 2)",
         "de": "Kleinkinder (unter 2 Jahren)"
     },
-    {
+    "Minimum price per night": {
         "en": "Minimum price per night",
         "de": "Mindespreis pro Nacht"
     },
-    {
+    "Maximum price per night": {
         "en": "Maximum price per night",
         "de": "Höchstpreis pro Nacht"
     },
-    {
+    "Minimum price per month": {
         "en": "Minimum price per month",
         "de": "Mindespreis pro Monat"
     },
-    {
+    "Maximum price per month": {
         "en": "Maximum price per month",
         "de": "Höchstpreis pro Monat"
     },
-    {
+    "$": {
         "en": "$",
         "de": "€"
     },
-    {
+    "Type of place": {
         "en": "Type of place",
         "de": "Art der Unterkunft"
     },
-    {
+    "Property Type": {
         "en": "Property Type",
         "de": "Art der Unterkunft"
     },
-    {
+    "Bedrooms": {
         "en": "Bedrooms",
         "de": "Schlafzimmer"
     },
-    {
+    "Beds": {
         "en": "Beds",
         "de": "Betten"
     },
-    {
+    "Bathrooms": {
         "en": "Bathrooms",
         "de": "Badezimmer"
     }
-]
+}
