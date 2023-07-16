@@ -377,7 +377,7 @@
         } 
         document.getElementById("current_flag_icon").innerHTML='<img src="img/'+langCode+'-flag-icon.svg" width="30" alt="'+langCode+'"/>'
         for(key of Object.keys(Object.values(localizationObject)[0])){
-          li='<li><a class="dropdown-item" href="#"><img src="img/'+key+'-flag-icon.svg" width="30" alt="'+key+'" onclick="changeLanguage('+key+')"/></a></li>'
+          li='<li><a class="dropdown-item" href="#"><img src="img/'+key+'-flag-icon.svg" width="30" alt="'+key+'" onclick="changeLanguage("'+key+'")"/></a></li>'
           document.getElementById("dropdown_languages").insertAdjacentHTML( 'beforeend', li );
         }            
       });
