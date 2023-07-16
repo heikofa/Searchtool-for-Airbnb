@@ -242,7 +242,7 @@
           <div class="mb-3">
             <label for="min-price" class="form-label" id="Minimum price per night">Min Price:</label>
             <div class="input-group">
-              <span class="input-group-text">$</span>
+              <span class="input-group-text" id="$"></span>
               <input type="number" id="min-price" class="form-control" min="0" onchange="generateURL()">
             </div>
           </div>
@@ -260,7 +260,7 @@
           <div class="mb-3">
             <label for="room-type" class="form-label" id="Type of place"></label>
             <select id="room-type" onchange="generateURL()" class="form-select">
-              <option value="all" selected>All Types</option>
+              <option id="All Types" value="all" selected></option>
               <option id="Room" value="room"></option>
               <option id="Home" value="home"></option>
             </select>

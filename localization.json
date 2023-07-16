@@ -91,6 +91,10 @@
         "en": "Error: Max price must be higher than min price",
         "de": "Fehler: der Höchstpreis muss höher als der Mindestpreis sein"
     },
+    "All Types": {
+        "en": "All Types",
+        "de": "Alle Arten"
+    },
     "Room": {
         "en": "Room",
         "de": "Zimmer"
