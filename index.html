@@ -361,7 +361,9 @@
       // Load JSON data from file
       $.getJSON('codes.json', function(jsonData) {
           // Iterate over each item in the JSON data
+          console.log(jsonData)
           jsonData.sort(function(a, b) {
+          console.log(jsonData)
             return a[langCode] - b[langCode];
           });
           for(let i=0;i<jsonData.length; i++){
