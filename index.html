@@ -17,6 +17,12 @@
         generateURL();
       }
     }
+    function changeLanguage(lang) {
+      // Reload the page with the selected language as a GET parameter
+      var url = new URL(window.location.href);
+      url.searchParams.set('lang', lang);
+      window.location.href = url.toString();
+    }
     function parseLangCode(){
       url = new URL(window.location.toLocaleString())
       urlParams=url.searchParams
@@ -371,7 +377,7 @@
         } 
         document.getElementById("current_flag_icon").innerHTML='<img src="img/'+langCode+'-flag-icon.svg" width="30" alt="'+langCode+'"/>'
         for(key of Object.keys(Object.values(localizationObject)[0])){
-          li='<li><a class="dropdown-item" href="/?lang='+key+'"><img src="img/'+key+'-flag-icon.svg" width="30" alt="'+key+'"/></a></li>'
+          li='<li><a class="dropdown-item" href="#"><img src="img/'+key+'-flag-icon.svg" width="30" alt="'+key+'" onclick="changeLanguage('+key+')"/></a></li>'
           document.getElementById("dropdown_languages").insertAdjacentHTML( 'beforeend', li );
         }            
       });
