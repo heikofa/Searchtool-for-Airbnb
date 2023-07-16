@@ -77,21 +77,21 @@
 
       // Check if check-in is in the past
       if (checkinDate && checkinDate < currentDate) {
-        document.getElementById('url-field').value = 'Error: Check-in date cannot be in the past';
+        document.getElementById('url-field').value = localize('Error: Check-in date cannot be in the past');
         document.getElementById('Open').disabled = true;
         return;
       }
 
       // Check if check-out is before or same as check-in
       if (checkoutDate && checkinDate && (checkinDate >= checkoutDate)) {
-        document.getElementById('url-field').value = 'Error: Check-out date must be after the check-in date';
+        document.getElementById('url-field').value = localize('Error: Check-out date must be after the check-in date');
         document.getElementById('Open').disabled = true;
         return;
       }
 
       // Perform Price validation
       if (!isNaN(minPrice) && !isNaN(maxPrice) && maxPrice < minPrice) {
-        document.getElementById('url-field').value = 'Error: Max price must be higher than min price';
+        document.getElementById('url-field').value = localize('Error: Max price must be higher than min price');
         document.getElementById('Open').disabled = true;
         return;
       }
@@ -261,8 +261,8 @@
             <label for="room-type" class="form-label" id="Type of place"></label>
             <select id="room-type" onchange="generateURL()" class="form-select">
               <option value="all" selected>All Types</option>
-              <option value="room">Room</option>
-              <option value="home">Home</option>
+              <option id="Room" value="room"></option>
+              <option id="Home" value="home"></option>
             </select>
           </div>
         </div>
@@ -363,6 +363,7 @@
           // Iterate over each item in the JSON data
           console.log(jsonData)
           jsonData.sort(function(a, b) {
+
             return a[langCode].localeCompare(b[langCode]);
           });
           console.log(jsonData)

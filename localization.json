@@ -78,5 +78,25 @@
     "com": {
         "en": "com",
         "de": "de"
+    },
+    "Error: Check-in date cannot be in the past": {
+        "en": "Error: Check-in date cannot be in the past",
+        "de": "Fehler: Das Check-in Datum darf nicht in der Vergangenheit liegen"
+    },
+    "Error: Check-out date must be after the check-in date": {
+        "en": "Error: Check-out date must be after the check-in date",
+        "de": "Fehler: Das Check-out Datum muss später als das Check-in Datum sein"
+    },
+    "Error: Max price must be higher than min price": {
+        "en": "Error: Max price must be higher than min price",
+        "de": "Fehler: der Höchstpreis muss höher als der Mindestpreis sein"
+    },
+    "Room": {
+        "en": "Room",
+        "de": "Zimmer"
+    },
+    "Home": {
+        "en": "Home",
+        "de": "Unterkunfr"
     }
 }
