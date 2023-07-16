@@ -1,3507 +1,3507 @@
 [
     {
       "id": 1,
-      "amenity": "TV",
-      "amenity_de": "TV"
+      "en": "TV",
+      "de": "TV"
     },
     {
       "id": 2,
-      "amenity": "Cable TV",
-      "amenity_de": "Kabelfernsehen"
+      "en": "Cable TV",
+      "de": "Kabelfernsehen"
     },
     {
       "id": 3,
-      "amenity": "Internet",
-      "amenity_de": "Internet"
+      "en": "Internet",
+      "de": "Internet"
     },
     {
       "id": 4,
-      "amenity": "Wifi",
-      "amenity_de": "WLAN"
+      "en": "Wifi",
+      "de": "WLAN"
     },
     {
       "id": 5,
-      "amenity": "Air conditioning",
-      "amenity_de": "Klimaanlage"
+      "en": "Air conditioning",
+      "de": "Klimaanlage"
     },
     {
       "id": 6,
-      "amenity": "Wheelchair accessible",
-      "amenity_de": "Rollstuhlgerecht"
+      "en": "Wheelchair accessible",
+      "de": "Rollstuhlgerecht"
     },
     {
       "id": 7,
-      "amenity": "Pool",
-      "amenity_de": "Pool"
+      "en": "Pool",
+      "de": "Pool"
     },
     {
       "id": 8,
-      "amenity": "Kitchen",
-      "amenity_de": "Küche"
+      "en": "Kitchen",
+      "de": "Küche"
     },
     {
       "id": 9,
-      "amenity": "Free parking on premises",
-      "amenity_de": "Kostenloser Parkplatz auf dem Grundstück"
+      "en": "Free parking on premises",
+      "de": "Kostenloser Parkplatz auf dem Grundstück"
     },
     {
       "id": 10,
-      "amenity": "Paid parking off premises",
-      "amenity_de": "Kostenpflichtiger Parkplatz außerhalb des Grundstücks"
+      "en": "Paid parking off premises",
+      "de": "Kostenpflichtiger Parkplatz außerhalb des Grundstücks"
     },
     {
       "id": 11,
-      "amenity": "Smoking allowed",
-      "amenity_de": "Rauchen erlaubt"
+      "en": "Smoking allowed",
+      "de": "Rauchen erlaubt"
     },
     {
       "id": 12,
-      "amenity": "Pets allowed",
-      "amenity_de": "Haustiere erlaubt"
+      "en": "Pets allowed",
+      "de": "Haustiere erlaubt"
     },
     {
       "id": 14,
-      "amenity": "Doorman",
-      "amenity_de": "Portier"
+      "en": "Doorman",
+      "de": "Portier"
     },
     {
       "id": 15,
-      "amenity": "Gym",
-      "amenity_de": "Fitnessraum"
+      "en": "Gym",
+      "de": "Fitnessraum"
     },
     {
       "id": 16,
-      "amenity": "Breakfast",
-      "amenity_de": "Frühstück"
+      "en": "Breakfast",
+      "de": "Frühstück"
     },
     {
       "id": 17,
-      "amenity": "Pets live on this property",
-      "amenity_de": "Es gibt Haustiere in dieser Unterkunft"
+      "en": "Pets live on this property",
+      "de": "Es gibt Haustiere in dieser Unterkunft"
     },
     {
       "id": 18,
-      "amenity": "Dog(s)",
-      "amenity_de": "Hund(e)"
+      "en": "Dog(s)",
+      "de": "Hund(e)"
     },
     {
       "id": 19,
-      "amenity": "Cat(s)",
-      "amenity_de": "Katze(n)"
+      "en": "Cat(s)",
+      "de": "Katze(n)"
     },
     {
       "id": 20,
-      "amenity": "Other pet(s)",
-      "amenity_de": "Andere(s) Haustier(e)"
+      "en": "Other pet(s)",
+      "de": "Andere(s) Haustier(e)"
     },
     {
       "id": 21,
-      "amenity": "Elevator",
-      "amenity_de": "Aufzug"
+      "en": "Elevator",
+      "de": "Aufzug"
     },
     {
       "id": 22,
-      "amenity": "Garage parking",
-      "amenity_de": "Garagenstellplatz"
+      "en": "Garage parking",
+      "de": "Garagenstellplatz"
     },
     {
       "id": 23,
-      "amenity": "Free street parking",
-      "amenity_de": "Kostenlose Parkplätze an der Straße"
+      "en": "Free street parking",
+      "de": "Kostenlose Parkplätze an der Straße"
     },
     {
       "id": 24,
-      "amenity": "Permit parking",
-      "amenity_de": "Parken erlaubt"
+      "en": "Permit parking",
+      "de": "Parken erlaubt"
     },
     {
       "id": 25,
-      "amenity": "Hot tub",
-      "amenity_de": "Whirlpool"
+      "en": "Hot tub",
+      "de": "Whirlpool"
     },
     {
       "id": 26,
-      "amenity": "Jacuzzi tub",
-      "amenity_de": "Whirlpool"
+      "en": "Jacuzzi tub",
+      "de": "Whirlpool"
     },
     {
       "id": 27,
-      "amenity": "Indoor fireplace",
-      "amenity_de": "Kamin"
+      "en": "Indoor fireplace",
+      "de": "Kamin"
     },
     {
       "id": 28,
-      "amenity": "Buzzer/wireless intercom",
-      "amenity_de": "Türöffner / Gegensprechanlage"
+      "en": "Buzzer/wireless intercom",
+      "de": "Türöffner / Gegensprechanlage"
     },
     {
       "id": 30,
-      "amenity": "Heating",
-      "amenity_de": "Heizung"
+      "en": "Heating",
+      "de": "Heizung"
     },
     {
       "id": 31,
-      "amenity": "Family/kid friendly",
-      "amenity_de": "Familien- / kinderfreundlich"
+      "en": "Family/kid friendly",
+      "de": "Familien- / kinderfreundlich"
     },
     {
       "id": 32,
-      "amenity": "Suitable for events",
-      "amenity_de": "Für Veranstaltungen geeignet"
+      "en": "Suitable for events",
+      "de": "Für Veranstaltungen geeignet"
     },
     {
       "id": 33,
-      "amenity": "Washer",
-      "amenity_de": "Waschmaschine"
+      "en": "Washer",
+      "de": "Waschmaschine"
     },
     {
       "id": 34,
-      "amenity": "Dryer",
-      "amenity_de": "Trockner"
+      "en": "Dryer",
+      "de": "Trockner"
     },
     {
       "id": 35,
-      "amenity": "Smoke alarm",
-      "amenity_de": "Rauchmelder"
+      "en": "Smoke alarm",
+      "de": "Rauchmelder"
     },
     {
       "id": 36,
-      "amenity": "Carbon monoxide alarm",
-      "amenity_de": "Kohlenmonoxidmelder"
+      "en": "Carbon monoxide alarm",
+      "de": "Kohlenmonoxidmelder"
     },
     {
       "id": 37,
-      "amenity": "First aid kit",
-      "amenity_de": "Erste-Hilfe-Set"
+      "en": "First aid kit",
+      "de": "Erste-Hilfe-Set"
     },
     {
       "id": 38,
-      "amenity": "Safety card",
-      "amenity_de": "Sicherheitsanweisungen"
+      "en": "Safety card",
+      "de": "Sicherheitsanweisungen"
     },
     {
       "id": 39,
-      "amenity": "Fire extinguisher",
-      "amenity_de": "Feuerlöscher"
+      "en": "Fire extinguisher",
+      "de": "Feuerlöscher"
     },
     {
       "id": 40,
-      "amenity": "Essentials",
-      "amenity_de": "Grundausstattung"
+      "en": "Essentials",
+      "de": "Grundausstattung"
     },
     {
       "id": 41,
-      "amenity": "Shampoo",
-      "amenity_de": "Shampoo"
+      "en": "Shampoo",
+      "de": "Shampoo"
     },
     {
       "id": 42,
-      "amenity": "Lock on bedroom door",
-      "amenity_de": "Abschließbares Zimmer"
+      "en": "Lock on bedroom door",
+      "de": "Abschließbares Zimmer"
     },
     {
       "id": 43,
-      "amenity": "24-hour check-in",
-      "amenity_de": "Check-in rund um die Uhr"
+      "en": "24-hour check-in",
+      "de": "Check-in rund um die Uhr"
     },
     {
       "id": 44,
-      "amenity": "Hangers",
-      "amenity_de": "Kleiderbügel"
+      "en": "Hangers",
+      "de": "Kleiderbügel"
     },
     {
       "id": 45,
-      "amenity": "Hair dryer",
-      "amenity_de": "Föhn"
+      "en": "Hair dryer",
+      "de": "Föhn"
     },
     {
       "id": 46,
-      "amenity": "Iron",
-      "amenity_de": "Bügeleisen"
+      "en": "Iron",
+      "de": "Bügeleisen"
     },
     {
       "id": 47,
-      "amenity": "Dedicated workspace",
-      "amenity_de": "Arbeitsplatz"
+      "en": "Dedicated workspace",
+      "de": "Arbeitsplatz"
     },
     {
       "id": 48,
-      "amenity": "Sonoma Select",
-      "amenity_de": "Sonoma Select"
+      "en": "Sonoma Select",
+      "de": "Sonoma Select"
     },
     {
       "id": 51,
-      "amenity": "Self check-in",
-      "amenity_de": "Eigenständiger Check-in"
+      "en": "Self check-in",
+      "de": "Eigenständiger Check-in"
     },
     {
       "id": 52,
-      "amenity": "Smart lock",
-      "amenity_de": "Elektronisches Türschloss"
+      "en": "Smart lock",
+      "de": "Elektronisches Türschloss"
     },
     {
       "id": 53,
-      "amenity": "Keypad",
-      "amenity_de": "Codeschloss"
+      "en": "Keypad",
+      "de": "Codeschloss"
     },
     {
       "id": 54,
-      "amenity": "Lockbox",
-      "amenity_de": "Schlüsselbox"
+      "en": "Lockbox",
+      "de": "Schlüsselbox"
     },
     {
       "id": 55,
-      "amenity": "Building staff",
-      "amenity_de": "Angestellte im Gebäude"
+      "en": "Building staff",
+      "de": "Angestellte im Gebäude"
     },
     {
       "id": 56,
-      "amenity": "Private living room",
-      "amenity_de": "Privates Wohnzimmer"
+      "en": "Private living room",
+      "de": "Privates Wohnzimmer"
     },
     {
       "id": 57,
-      "amenity": "Private entrance",
-      "amenity_de": "Privater Eingang"
+      "en": "Private entrance",
+      "de": "Privater Eingang"
     },
     {
       "id": 58,
-      "amenity": "TV",
-      "amenity_de": "TV"
+      "en": "TV",
+      "de": "TV"
     },
     {
       "id": 59,
-      "amenity": "Baby monitor",
-      "amenity_de": "Babyfon"
+      "en": "Baby monitor",
+      "de": "Babyfon"
     },
     {
       "id": 60,
-      "amenity": "Outlet covers",
-      "amenity_de": "Steckdosen-Sicherungen"
+      "en": "Outlet covers",
+      "de": "Steckdosen-Sicherungen"
     },
     {
       "id": 61,
-      "amenity": "Bathtub",
-      "amenity_de": "Badewanne"
+      "en": "Bathtub",
+      "de": "Badewanne"
     },
     {
       "id": 62,
-      "amenity": "Baby bath",
-      "amenity_de": "Baby-Badewanne"
+      "en": "Baby bath",
+      "de": "Baby-Badewanne"
     },
     {
       "id": 63,
-      "amenity": "Changing table",
-      "amenity_de": "Wickeltisch"
+      "en": "Changing table",
+      "de": "Wickeltisch"
     },
     {
       "id": 64,
-      "amenity": "High chair",
-      "amenity_de": "Hochstuhl"
+      "en": "High chair",
+      "de": "Hochstuhl"
     },
     {
       "id": 65,
-      "amenity": "Baby safety gates",
-      "amenity_de": "Baby-Sicherheitsgitter"
+      "en": "Baby safety gates",
+      "de": "Baby-Sicherheitsgitter"
     },
     {
       "id": 66,
-      "amenity": "Childrens books and toys",
-      "amenity_de": "Kinderbücher und Spielzeug"
+      "en": "Childrens books and toys",
+      "de": "Kinderbücher und Spielzeug"
     },
     {
       "id": 67,
-      "amenity": "Window guards",
-      "amenity_de": "Gesicherte Fenster"
+      "en": "Window guards",
+      "de": "Gesicherte Fenster"
     },
     {
       "id": 68,
-      "amenity": "Table corner guards",
-      "amenity_de": "Tischkantenschutz"
+      "en": "Table corner guards",
+      "de": "Tischkantenschutz"
     },
     {
       "id": 69,
-      "amenity": "Fireplace guards",
-      "amenity_de": "Kamingitter"
+      "en": "Fireplace guards",
+      "de": "Kamingitter"
     },
     {
       "id": 70,
-      "amenity": "Babysitter recommendations",
-      "amenity_de": "Empfehlungen für Babysitter"
+      "en": "Babysitter recommendations",
+      "de": "Empfehlungen für Babysitter"
     },
     {
       "id": 71,
-      "amenity": "Crib",
-      "amenity_de": "Babybett"
+      "en": "Crib",
+      "de": "Babybett"
     },
     {
       "id": 72,
-      "amenity": "Pack n play/Travel crib",
-      "amenity_de": "Reisebett für Kinder"
+      "en": "Pack n play/Travel crib",
+      "de": "Reisebett für Kinder"
     },
     {
       "id": 73,
-      "amenity": "Room-darkening shades",
-      "amenity_de": "Abdunklung"
+      "en": "Room-darkening shades",
+      "de": "Abdunklung"
     },
     {
       "id": 74,
-      "amenity": "Childrens dinnerware",
-      "amenity_de": "Kindergeschirr"
+      "en": "Childrens dinnerware",
+      "de": "Kindergeschirr"
     },
     {
       "id": 75,
-      "amenity": "Game console",
-      "amenity_de": "Spielkonsole"
+      "en": "Game console",
+      "de": "Spielkonsole"
     },
     {
       "id": 77,
-      "amenity": "Hot water",
-      "amenity_de": "Warmwasser"
+      "en": "Hot water",
+      "de": "Warmwasser"
     },
     {
       "id": 78,
-      "amenity": "Private bathroom",
-      "amenity_de": "Privates Badezimmer"
+      "en": "Private bathroom",
+      "de": "Privates Badezimmer"
     },
     {
       "id": 79,
-      "amenity": "Body soap",
-      "amenity_de": "Seife oder Duschgel"
+      "en": "Body soap",
+      "de": "Seife oder Duschgel"
     },
     {
       "id": 80,
-      "amenity": "Hand soap",
-      "amenity_de": "Handwaschseife"
+      "en": "Hand soap",
+      "de": "Handwaschseife"
     },
     {
       "id": 81,
-      "amenity": "Bath towel",
-      "amenity_de": "Badehandtuch"
+      "en": "Bath towel",
+      "de": "Badehandtuch"
     },
     {
       "id": 82,
-      "amenity": "Hand or paper towel",
-      "amenity_de": "Gästehandtuch oder Papiertücher"
+      "en": "Hand or paper towel",
+      "de": "Gästehandtuch oder Papiertücher"
     },
     {
       "id": 83,
-      "amenity": "Toilet paper",
-      "amenity_de": "Toilettenpapier"
+      "en": "Toilet paper",
+      "de": "Toilettenpapier"
     },
     {
       "id": 84,
-      "amenity": "Feminine hygiene products",
-      "amenity_de": "Hygieneprodukte für Frauen"
+      "en": "Feminine hygiene products",
+      "de": "Hygieneprodukte für Frauen"
     },
     {
       "id": 85,
-      "amenity": "Bed linens",
-      "amenity_de": "Bettwäsche"
+      "en": "Bed linens",
+      "de": "Bettwäsche"
     },
     {
       "id": 86,
-      "amenity": "Extra pillows and blankets",
-      "amenity_de": "Extrakissen und -decken"
+      "en": "Extra pillows and blankets",
+      "de": "Extrakissen und -decken"
     },
     {
       "id": 87,
-      "amenity": "Ethernet connection",
-      "amenity_de": "Ethernet-Verbindung"
+      "en": "Ethernet connection",
+      "de": "Ethernet-Verbindung"
     },
     {
       "id": 88,
-      "amenity": "Pocket wifi",
-      "amenity_de": "Pocket-Wifi"
+      "en": "Pocket wifi",
+      "de": "Pocket-Wifi"
     },
     {
       "id": 89,
-      "amenity": "Microwave",
-      "amenity_de": "Mikrowelle"
+      "en": "Microwave",
+      "de": "Mikrowelle"
     },
     {
       "id": 90,
-      "amenity": "Coffee maker",
-      "amenity_de": "Kaffeemaschine"
+      "en": "Coffee maker",
+      "de": "Kaffeemaschine"
     },
     {
       "id": 91,
-      "amenity": "Refrigerator",
-      "amenity_de": "Kühlschrank"
+      "en": "Refrigerator",
+      "de": "Kühlschrank"
     },
     {
       "id": 92,
-      "amenity": "Dishwasher",
-      "amenity_de": "Ge­schirr­spül­ma­schi­ne"
+      "en": "Dishwasher",
+      "de": "Ge­schirr­spül­ma­schi­ne"
     },
     {
       "id": 93,
-      "amenity": "Dishes and silverware",
-      "amenity_de": "Geschirr und Besteck"
+      "en": "Dishes and silverware",
+      "de": "Geschirr und Besteck"
     },
     {
       "id": 94,
-      "amenity": "Cooking basics",
-      "amenity_de": "Grundausstattung zum Kochen"
+      "en": "Cooking basics",
+      "de": "Grundausstattung zum Kochen"
     },
     {
       "id": 95,
-      "amenity": "Oven",
-      "amenity_de": "Ofen"
+      "en": "Oven",
+      "de": "Ofen"
     },
     {
       "id": 96,
-      "amenity": "Stove",
-      "amenity_de": "Herd"
+      "en": "Stove",
+      "de": "Herd"
     },
     {
       "id": 97,
-      "amenity": "EV charger",
-      "amenity_de": "Ladestation für Elektrofahrzeuge"
+      "en": "EV charger",
+      "de": "Ladestation für Elektrofahrzeuge"
     },
     {
       "id": 98,
-      "amenity": "Single level home",
-      "amenity_de": "Unterkunft auf nur einer Ebene"
+      "en": "Single level home",
+      "de": "Unterkunft auf nur einer Ebene"
     },
     {
       "id": 99,
-      "amenity": "BBQ grill",
-      "amenity_de": "Grill"
+      "en": "BBQ grill",
+      "de": "Grill"
     },
     {
       "id": 100,
-      "amenity": "Patio or balcony",
-      "amenity_de": "Terrasse oder Balkon"
+      "en": "Patio or balcony",
+      "de": "Terrasse oder Balkon"
     },
     {
       "id": 101,
-      "amenity": "Backyard",
-      "amenity_de": "Hinterhof/Garten"
+      "en": "Backyard",
+      "de": "Hinterhof/Garten"
     },
     {
       "id": 102,
-      "amenity": "Beach essentials",
-      "amenity_de": "Strandzubehör"
+      "en": "Beach essentials",
+      "de": "Strandzubehör"
     },
     {
       "id": 103,
-      "amenity": "Luggage dropoff allowed",
-      "amenity_de": "Gepäck kann abgestellt werden"
+      "en": "Luggage dropoff allowed",
+      "de": "Gepäck kann abgestellt werden"
     },
     {
       "id": 104,
-      "amenity": "Long term stays allowed",
-      "amenity_de": "Langzeitaufenthalte sind möglich"
+      "en": "Long term stays allowed",
+      "de": "Langzeitaufenthalte sind möglich"
     },
     {
       "id": 106,
-      "amenity": "pick up service",
-      "amenity_de": "Abholservice"
+      "en": "pick up service",
+      "de": "Abholservice"
     },
     {
       "id": 107,
-      "amenity": "Cleaning available during stay",
-      "amenity_de": "Reinigung während des Aufenthalts möglich"
+      "en": "Cleaning available during stay",
+      "de": "Reinigung während des Aufenthalts möglich"
     },
     {
       "id": 109,
-      "amenity": "Wide hallways",
-      "amenity_de": "Breite Flure"
+      "en": "Wide hallways",
+      "de": "Breite Flure"
     },
     {
       "id": 110,
-      "amenity": "Step-free guest entrance",
-      "amenity_de": "Barrierefreier Gästeeingang"
+      "en": "Step-free guest entrance",
+      "de": "Barrierefreier Gästeeingang"
     },
     {
       "id": 111,
-      "amenity": "Guest entrance wider than 32 inches",
-      "amenity_de": "Der Gästeeingang ist breiter als 81 cm."
+      "en": "Guest entrance wider than 32 inches",
+      "de": "Der Gästeeingang ist breiter als 81 cm."
     },
     {
       "id": 112,
-      "amenity": "Step-free path to the guest entrance",
-      "amenity_de": "Barrierefreier Weg bis zum Gästeeingang"
+      "en": "Step-free path to the guest entrance",
+      "de": "Barrierefreier Weg bis zum Gästeeingang"
     },
     {
       "id": 113,
-      "amenity": "Lit path to the guest entrance",
-      "amenity_de": "Beleuchteter Weg bis zum Gästeeingang"
+      "en": "Lit path to the guest entrance",
+      "de": "Beleuchteter Weg bis zum Gästeeingang"
     },
     {
       "id": 114,
-      "amenity": "Accessible parking spot",
-      "amenity_de": "Barrierefreier Parkplatz"
+      "en": "Accessible parking spot",
+      "de": "Barrierefreier Parkplatz"
     },
     {
       "id": 115,
-      "amenity": "Step-free access",
-      "amenity_de": "Stufenfreier Zugang"
+      "en": "Step-free access",
+      "de": "Stufenfreier Zugang"
     },
     {
       "id": 116,
-      "amenity": "Wide entrance",
-      "amenity_de": "Breiter Eingang"
+      "en": "Wide entrance",
+      "de": "Breiter Eingang"
     },
     {
       "id": 117,
-      "amenity": "Extra space around bed",
-      "amenity_de": "Extra viel Platz rund ums Bett"
+      "en": "Extra space around bed",
+      "de": "Extra viel Platz rund ums Bett"
     },
     {
       "id": 118,
-      "amenity": "Accessible-height bed",
-      "amenity_de": "Niedriges Bett"
+      "en": "Accessible-height bed",
+      "de": "Niedriges Bett"
     },
     {
       "id": 120,
-      "amenity": "Step-free access",
-      "amenity_de": "Stufenfreier Zugang"
+      "en": "Step-free access",
+      "de": "Stufenfreier Zugang"
     },
     {
       "id": 121,
-      "amenity": "Wide doorway to guest bathroom",
-      "amenity_de": "Breite Türöffnung zum Gästebad"
+      "en": "Wide doorway to guest bathroom",
+      "de": "Breite Türöffnung zum Gästebad"
     },
     {
       "id": 122,
-      "amenity": "Fixed grab bars for shower, toilet",
-      "amenity_de": "Fest montierte Haltestangen für Dusche und WC"
+      "en": "Fixed grab bars for shower, toilet",
+      "de": "Fest montierte Haltestangen für Dusche und WC"
     },
     {
       "id": 123,
-      "amenity": "Bathtub with bath chair",
-      "amenity_de": "Badewanne mit Wannensitz"
+      "en": "Bathtub with bath chair",
+      "de": "Badewanne mit Wannensitz"
     },
     {
       "id": 124,
-      "amenity": "Roll-in shower with chair",
-      "amenity_de": "Barrierefreie Dusche mit Sitz"
+      "en": "Roll-in shower with chair",
+      "de": "Barrierefreie Dusche mit Sitz"
     },
     {
       "id": 125,
-      "amenity": "Accessible-height toilet",
-      "amenity_de": "WC in behindertengerechter Höhe"
+      "en": "Accessible-height toilet",
+      "de": "WC in behindertengerechter Höhe"
     },
     {
       "id": 126,
-      "amenity": "Wide clearance to shower, toilet",
-      "amenity_de": "Viel Platz vor Dusche und WC"
+      "en": "Wide clearance to shower, toilet",
+      "de": "Viel Platz vor Dusche und WC"
     },
     {
       "id": 127,
-      "amenity": "Step-free access",
-      "amenity_de": "Stufenfreier Zugang"
+      "en": "Step-free access",
+      "de": "Stufenfreier Zugang"
     },
     {
       "id": 128,
-      "amenity": "Wide entryway",
-      "amenity_de": "Breite Eingangstür"
+      "en": "Wide entryway",
+      "de": "Breite Eingangstür"
     },
     {
       "id": 129,
-      "amenity": "Host greets you",
-      "amenity_de": "Begrüßung durch Gastgeber"
+      "en": "Host greets you",
+      "de": "Begrüßung durch Gastgeber"
     },
     {
       "id": 131,
-      "amenity": "Other",
-      "amenity_de": "Sonstiges"
+      "en": "Other",
+      "de": "Sonstiges"
     },
     {
       "id": 132,
-      "amenity": "Waterfront",
-      "amenity_de": "Am Wasser"
+      "en": "Waterfront",
+      "de": "Am Wasser"
     },
     {
       "id": 133,
-      "amenity": "Lake access",
-      "amenity_de": "Zugang zum See"
+      "en": "Lake access",
+      "de": "Zugang zum See"
     },
     {
       "id": 134,
-      "amenity": "Beachfront",
-      "amenity_de": "Am Strand"
+      "en": "Beachfront",
+      "de": "Am Strand"
     },
     {
       "id": 135,
-      "amenity": "Ski-in/Ski-out",
-      "amenity_de": "An der Piste"
+      "en": "Ski-in/Ski-out",
+      "de": "An der Piste"
     },
     {
       "id": 136,
-      "amenity": "Handheld shower head",
-      "amenity_de": "Handbrause"
+      "en": "Handheld shower head",
+      "de": "Handbrause"
     },
     {
       "id": 137,
-      "amenity": "Hot water kettle",
-      "amenity_de": "Wasserkocher"
+      "en": "Hot water kettle",
+      "de": "Wasserkocher"
     },
     {
       "id": 138,
-      "amenity": "Air purifier",
-      "amenity_de": "Luftreiniger"
+      "en": "Air purifier",
+      "de": "Luftreiniger"
     },
     {
       "id": 139,
-      "amenity": "Ceiling fan",
-      "amenity_de": "Deckenventilator"
+      "en": "Ceiling fan",
+      "de": "Deckenventilator"
     },
     {
       "id": 140,
-      "amenity": "Central air conditioning",
-      "amenity_de": "Zentrale Klimaanlage"
+      "en": "Central air conditioning",
+      "de": "Zentrale Klimaanlage"
     },
     {
       "id": 141,
-      "amenity": "Radiant heating",
-      "amenity_de": "Strahlungsheizung"
+      "en": "Radiant heating",
+      "de": "Strahlungsheizung"
     },
     {
       "id": 142,
-      "amenity": "Portable air conditioning",
-      "amenity_de": "Tragbare Klimaanlage"
+      "en": "Portable air conditioning",
+      "de": "Tragbare Klimaanlage"
     },
     {
       "id": 143,
-      "amenity": "Heated floors",
-      "amenity_de": "Beheizte Fußböden"
+      "en": "Heated floors",
+      "de": "Beheizte Fußböden"
     },
     {
       "id": 144,
-      "amenity": "Walk in closet",
-      "amenity_de": "Begehbarer Kleiderschrank"
+      "en": "Walk in closet",
+      "de": "Begehbarer Kleiderschrank"
     },
     {
       "id": 145,
-      "amenity": "Kitchenette",
-      "amenity_de": "Kochnische"
+      "en": "Kitchenette",
+      "de": "Kochnische"
     },
     {
       "id": 146,
-      "amenity": "Mini fridge",
-      "amenity_de": "Minikühlschrank"
+      "en": "Mini fridge",
+      "de": "Minikühlschrank"
     },
     {
       "id": 147,
-      "amenity": "Lounge area",
-      "amenity_de": "Lounge-Bereich"
+      "en": "Lounge area",
+      "de": "Lounge-Bereich"
     },
     {
       "id": 148,
-      "amenity": "Dressing area",
-      "amenity_de": "Ankleidebereich"
+      "en": "Dressing area",
+      "de": "Ankleidebereich"
     },
     {
       "id": 149,
-      "amenity": "Desk",
-      "amenity_de": "Schreibtisch"
+      "en": "Desk",
+      "de": "Schreibtisch"
     },
     {
       "id": 150,
-      "amenity": "Reading nook",
-      "amenity_de": "Leseecke"
+      "en": "Reading nook",
+      "de": "Leseecke"
     },
     {
       "id": 151,
-      "amenity": "Smart TV",
-      "amenity_de": "Smart-TV"
+      "en": "Smart TV",
+      "de": "Smart-TV"
     },
     {
       "id": 152,
-      "amenity": "DVD player",
-      "amenity_de": "DVD-Player"
+      "en": "DVD player",
+      "de": "DVD-Player"
     },
     {
       "id": 153,
-      "amenity": "Hammock",
-      "amenity_de": "Hängematte"
+      "en": "Hammock",
+      "de": "Hängematte"
     },
     {
       "id": 154,
-      "amenity": "Mountain view",
-      "amenity_de": "Blick auf die Berge"
+      "en": "Mountain view",
+      "de": "Blick auf die Berge"
     },
     {
       "id": 155,
-      "amenity": "Beach view",
-      "amenity_de": "Blick auf den Strand"
+      "en": "Beach view",
+      "de": "Blick auf den Strand"
     },
     {
       "id": 156,
-      "amenity": "Triple vanity",
-      "amenity_de": "Dreifach-Waschtisch"
+      "en": "Triple vanity",
+      "de": "Dreifach-Waschtisch"
     },
     {
       "id": 157,
-      "amenity": "Dual vanity",
-      "amenity_de": "Doppelwaschtisch"
+      "en": "Dual vanity",
+      "de": "Doppelwaschtisch"
     },
     {
       "id": 158,
-      "amenity": "Stand alone jetted bathtub",
-      "amenity_de": "Frei stehende Whirlwanne"
+      "en": "Stand alone jetted bathtub",
+      "de": "Frei stehende Whirlwanne"
     },
     {
       "id": 159,
-      "amenity": "Stand alone shower",
-      "amenity_de": "Frei stehende Dusche"
+      "en": "Stand alone shower",
+      "de": "Frei stehende Dusche"
     },
     {
       "id": 160,
-      "amenity": "Stand alone rain shower",
-      "amenity_de": "Frei stehende Regendusche"
+      "en": "Stand alone rain shower",
+      "de": "Frei stehende Regendusche"
     },
     {
       "id": 161,
-      "amenity": "Stand alone steam shower",
-      "amenity_de": "Frei stehende Dampfdusche"
+      "en": "Stand alone steam shower",
+      "de": "Frei stehende Dampfdusche"
     },
     {
       "id": 162,
-      "amenity": "Stand alone bathtub",
-      "amenity_de": "Frei stehende Badewanne"
+      "en": "Stand alone bathtub",
+      "de": "Frei stehende Badewanne"
     },
     {
       "id": 163,
-      "amenity": "Shower bathtub combo",
-      "amenity_de": "Kombinierte Duschwanne"
+      "en": "Shower bathtub combo",
+      "de": "Kombinierte Duschwanne"
     },
     {
       "id": 164,
-      "amenity": "Rain shower",
-      "amenity_de": "Regendusche"
+      "en": "Rain shower",
+      "de": "Regendusche"
     },
     {
       "id": 165,
-      "amenity": "Jetted tub",
-      "amenity_de": "Badewanne mit Massagedüsen"
+      "en": "Jetted tub",
+      "de": "Badewanne mit Massagedüsen"
     },
     {
       "id": 166,
-      "amenity": "Alfresco bathtub",
-      "amenity_de": "Badewanne im Freien"
+      "en": "Alfresco bathtub",
+      "de": "Badewanne im Freien"
     },
     {
       "id": 167,
-      "amenity": "Bidet",
-      "amenity_de": "Bidet"
+      "en": "Bidet",
+      "de": "Bidet"
     },
     {
       "id": 168,
-      "amenity": "Heated towel rack",
-      "amenity_de": "Beheizter Handtuchhalter"
+      "en": "Heated towel rack",
+      "de": "Beheizter Handtuchhalter"
     },
     {
       "id": 169,
-      "amenity": "Sailboat",
-      "amenity_de": "Segelboot"
+      "en": "Sailboat",
+      "de": "Segelboot"
     },
     {
       "id": 170,
-      "amenity": "Windsurfers",
-      "amenity_de": "Windsurfer"
+      "en": "Windsurfers",
+      "de": "Windsurfer"
     },
     {
       "id": 171,
-      "amenity": "Jet skis",
-      "amenity_de": "Jet-Skis"
+      "en": "Jet skis",
+      "de": "Jet-Skis"
     },
     {
       "id": 172,
-      "amenity": "Kayak",
-      "amenity_de": "Kajak"
+      "en": "Kayak",
+      "de": "Kajak"
     },
     {
       "id": 173,
-      "amenity": "Canoe",
-      "amenity_de": "Kanu"
+      "en": "Canoe",
+      "de": "Kanu"
     },
     {
       "id": 174,
-      "amenity": "Surfboard",
-      "amenity_de": "Surfbrett"
+      "en": "Surfboard",
+      "de": "Surfbrett"
     },
     {
       "id": 175,
-      "amenity": "Stand up paddle board",
-      "amenity_de": "Stand Up Paddle Board"
+      "en": "Stand up paddle board",
+      "de": "Stand Up Paddle Board"
     },
     {
       "id": 176,
-      "amenity": "Beach chairs",
-      "amenity_de": "Liegestühle"
+      "en": "Beach chairs",
+      "de": "Liegestühle"
     },
     {
       "id": 177,
-      "amenity": "Boogie boards",
-      "amenity_de": "Boogiebrett"
+      "en": "Boogie boards",
+      "de": "Boogiebrett"
     },
     {
       "id": 178,
-      "amenity": "Snorkeling equipment",
-      "amenity_de": "Schnorchelausrüstung"
+      "en": "Snorkeling equipment",
+      "de": "Schnorchelausrüstung"
     },
     {
       "id": 179,
-      "amenity": "Outdoor dining area",
-      "amenity_de": "Essbereich im Freien"
+      "en": "Outdoor dining area",
+      "de": "Essbereich im Freien"
     },
     {
       "id": 180,
-      "amenity": "Terrace",
-      "amenity_de": "Terrasse"
+      "en": "Terrace",
+      "de": "Terrasse"
     },
     {
       "id": 181,
-      "amenity": "Balcony",
-      "amenity_de": "Balkon"
+      "en": "Balcony",
+      "de": "Balkon"
     },
     {
       "id": 182,
-      "amenity": "Pergola",
-      "amenity_de": "Pergola"
+      "en": "Pergola",
+      "de": "Pergola"
     },
     {
       "id": 183,
-      "amenity": "Gazebo",
-      "amenity_de": "Gartenlaube"
+      "en": "Gazebo",
+      "de": "Gartenlaube"
     },
     {
       "id": 184,
-      "amenity": "Outdoor kitchen",
-      "amenity_de": "Außenküche"
+      "en": "Outdoor kitchen",
+      "de": "Außenküche"
     },
     {
       "id": 185,
-      "amenity": "Sound system",
-      "amenity_de": "Soundsystem"
+      "en": "Sound system",
+      "de": "Soundsystem"
     },
     {
       "id": 186,
-      "amenity": "Brick oven",
-      "amenity_de": "Steinofen"
+      "en": "Brick oven",
+      "de": "Steinofen"
     },
     {
       "id": 187,
-      "amenity": "Gas oven",
-      "amenity_de": "Gasherd"
+      "en": "Gas oven",
+      "de": "Gasherd"
     },
     {
       "id": 188,
-      "amenity": "Bar",
-      "amenity_de": "Bar"
+      "en": "Bar",
+      "de": "Bar"
     },
     {
       "id": 189,
-      "amenity": "Projector and screen",
-      "amenity_de": "Projektor und Bildschirm"
+      "en": "Projector and screen",
+      "de": "Projektor und Bildschirm"
     },
     {
       "id": 190,
-      "amenity": "Gated property",
-      "amenity_de": "Bewachtes Objekt"
+      "en": "Gated property",
+      "de": "Bewachtes Objekt"
     },
     {
       "id": 191,
-      "amenity": "Gated community",
-      "amenity_de": "Bewachte Wohnanlage"
+      "en": "Gated community",
+      "de": "Bewachte Wohnanlage"
     },
     {
       "id": 192,
-      "amenity": "Helipad",
-      "amenity_de": "Hubschrauberlandeplatz"
+      "en": "Helipad",
+      "de": "Hubschrauberlandeplatz"
     },
     {
       "id": 193,
-      "amenity": "Stables",
-      "amenity_de": "Ställe"
+      "en": "Stables",
+      "de": "Ställe"
     },
     {
       "id": 194,
-      "amenity": "Grotto",
-      "amenity_de": "Grotte"
+      "en": "Grotto",
+      "de": "Grotte"
     },
     {
       "id": 195,
-      "amenity": "Greenhouse",
-      "amenity_de": "Gewächshaus"
+      "en": "Greenhouse",
+      "de": "Gewächshaus"
     },
     {
       "id": 196,
-      "amenity": "Beach volleyball",
-      "amenity_de": "Beach-Volleyball"
+      "en": "Beach volleyball",
+      "de": "Beach-Volleyball"
     },
     {
       "id": 197,
-      "amenity": "Golf simulator",
-      "amenity_de": "Golf-Simulator"
+      "en": "Golf simulator",
+      "de": "Golf-Simulator"
     },
     {
       "id": 198,
-      "amenity": "Golf cart",
-      "amenity_de": "Golfmobil"
+      "en": "Golf cart",
+      "de": "Golfmobil"
     },
     {
       "id": 199,
-      "amenity": "UTV",
-      "amenity_de": "UTV"
+      "en": "UTV",
+      "de": "UTV"
     },
     {
       "id": 200,
-      "amenity": "ATV",
-      "amenity_de": "ATV"
+      "en": "ATV",
+      "de": "ATV"
     },
     {
       "id": 201,
-      "amenity": "Bikes",
-      "amenity_de": "Fahrräder"
+      "en": "Bikes",
+      "de": "Fahrräder"
     },
     {
       "id": 202,
-      "amenity": "Putting green",
-      "amenity_de": "Übungsgrün"
+      "en": "Putting green",
+      "de": "Übungsgrün"
     },
     {
       "id": 203,
-      "amenity": "Misting system",
-      "amenity_de": "Wassernebelanlage"
+      "en": "Misting system",
+      "de": "Wassernebelanlage"
     },
     {
       "id": 204,
-      "amenity": "Climbing wall",
-      "amenity_de": "Kletterwand"
+      "en": "Climbing wall",
+      "de": "Kletterwand"
     },
     {
       "id": 205,
-      "amenity": "Badminton",
-      "amenity_de": "Badminton"
+      "en": "Badminton",
+      "de": "Badminton"
     },
     {
       "id": 206,
-      "amenity": "Croquet",
-      "amenity_de": "Krokett"
+      "en": "Croquet",
+      "de": "Krokett"
     },
     {
       "id": 207,
-      "amenity": "Fountain",
-      "amenity_de": "Springbrunnen"
+      "en": "Fountain",
+      "de": "Springbrunnen"
     },
     {
       "id": 208,
-      "amenity": "Pond",
-      "amenity_de": "Teich"
+      "en": "Pond",
+      "de": "Teich"
     },
     {
       "id": 209,
-      "amenity": "Solar power",
-      "amenity_de": "Solarenergie"
+      "en": "Solar power",
+      "de": "Solarenergie"
     },
     {
       "id": 210,
-      "amenity": "Outdoor shower",
-      "amenity_de": "Außendusche"
+      "en": "Outdoor shower",
+      "de": "Außendusche"
     },
     {
       "id": 211,
-      "amenity": "Mosquito net",
-      "amenity_de": "Moskitonetz"
+      "en": "Mosquito net",
+      "de": "Moskitonetz"
     },
     {
       "id": 212,
-      "amenity": "Driveway parking",
-      "amenity_de": "Parkplatz in der Auffahrt"
+      "en": "Driveway parking",
+      "de": "Parkplatz in der Auffahrt"
     },
     {
       "id": 213,
-      "amenity": "Underground parking",
-      "amenity_de": "Tiefgarage"
+      "en": "Underground parking",
+      "de": "Tiefgarage"
     },
     {
       "id": 214,
-      "amenity": "Tennis court",
-      "amenity_de": "Tennisplatz"
+      "en": "Tennis court",
+      "de": "Tennisplatz"
     },
     {
       "id": 215,
-      "amenity": "Chapel",
-      "amenity_de": "Kapelle"
+      "en": "Chapel",
+      "de": "Kapelle"
     },
     {
       "id": 216,
-      "amenity": "Natural gas barbeque",
-      "amenity_de": "Erdgasgrill"
+      "en": "Natural gas barbeque",
+      "de": "Erdgasgrill"
     },
     {
       "id": 217,
-      "amenity": "Charcoal barbeque",
-      "amenity_de": "Holzkohlegrill"
+      "en": "Charcoal barbeque",
+      "de": "Holzkohlegrill"
     },
     {
       "id": 218,
-      "amenity": "Propane barbeque",
-      "amenity_de": "Propan-Grill"
+      "en": "Propane barbeque",
+      "de": "Propan-Grill"
     },
     {
       "id": 219,
-      "amenity": "Fire pit",
-      "amenity_de": "Feuerstelle"
+      "en": "Fire pit",
+      "de": "Feuerstelle"
     },
     {
       "id": 220,
-      "amenity": "Generator",
-      "amenity_de": "Generator"
+      "en": "Generator",
+      "de": "Generator"
     },
     {
       "id": 221,
-      "amenity": "Computer",
-      "amenity_de": "Computer"
+      "en": "Computer",
+      "de": "Computer"
     },
     {
       "id": 222,
-      "amenity": "Printer",
-      "amenity_de": "Drucker"
+      "en": "Printer",
+      "de": "Drucker"
     },
     {
       "id": 223,
-      "amenity": "Sauna",
-      "amenity_de": "Sauna"
+      "en": "Sauna",
+      "de": "Sauna"
     },
     {
       "id": 224,
-      "amenity": "Steam room",
-      "amenity_de": "Dampfsauna"
+      "en": "Steam room",
+      "de": "Dampfsauna"
     },
     {
       "id": 225,
-      "amenity": "Hammam",
-      "amenity_de": "Hammam"
+      "en": "Hammam",
+      "de": "Hammam"
     },
     {
       "id": 226,
-      "amenity": "Massage table",
-      "amenity_de": "Massagetisch"
+      "en": "Massage table",
+      "de": "Massagetisch"
     },
     {
       "id": 227,
-      "amenity": "Exercise equipment",
-      "amenity_de": "Trainingsgeräte"
+      "en": "Exercise equipment",
+      "de": "Trainingsgeräte"
     },
     {
       "id": 228,
-      "amenity": "Wine cellar",
-      "amenity_de": "Weinkeller"
+      "en": "Wine cellar",
+      "de": "Weinkeller"
     },
     {
       "id": 229,
-      "amenity": "Security cameras",
-      "amenity_de": "Überwachungskameras"
+      "en": "Security cameras",
+      "de": "Überwachungskameras"
     },
     {
       "id": 230,
-      "amenity": "Security monitors",
-      "amenity_de": "Sicherheitsmonitore"
+      "en": "Security monitors",
+      "de": "Sicherheitsmonitore"
     },
     {
       "id": 231,
-      "amenity": "Alarm system",
-      "amenity_de": "Alarmsystem"
+      "en": "Alarm system",
+      "de": "Alarmsystem"
     },
     {
       "id": 232,
-      "amenity": "Safe",
-      "amenity_de": "Safe"
+      "en": "Safe",
+      "de": "Safe"
     },
     {
       "id": 233,
-      "amenity": "Breakfast bar",
-      "amenity_de": "Frühstückstheke"
+      "en": "Breakfast bar",
+      "de": "Frühstückstheke"
     },
     {
       "id": 234,
-      "amenity": "Breakfast table",
-      "amenity_de": "Frühstückstisch"
+      "en": "Breakfast table",
+      "de": "Frühstückstisch"
     },
     {
       "id": 235,
-      "amenity": "Espresso machine",
-      "amenity_de": "Espressomaschine"
+      "en": "Espresso machine",
+      "de": "Espressomaschine"
     },
     {
       "id": 236,
-      "amenity": "Dining table",
-      "amenity_de": "Esstisch"
+      "en": "Dining table",
+      "de": "Esstisch"
     },
     {
       "id": 237,
-      "amenity": "Formal dining area",
-      "amenity_de": "Formeller Essbereich"
+      "en": "Formal dining area",
+      "de": "Formeller Essbereich"
     },
     {
       "id": 238,
-      "amenity": "Olympic size pool",
-      "amenity_de": "Pool in olympischer Größe"
+      "en": "Olympic size pool",
+      "de": "Pool in olympischer Größe"
     },
     {
       "id": 239,
-      "amenity": "Swimming pool",
-      "amenity_de": "Schwimmbecken"
+      "en": "Swimming pool",
+      "de": "Schwimmbecken"
     },
     {
       "id": 240,
-      "amenity": "Infinity pool",
-      "amenity_de": "Infinity-Pool"
+      "en": "Infinity pool",
+      "de": "Infinity-Pool"
     },
     {
       "id": 241,
-      "amenity": "Plunge pool",
-      "amenity_de": "Tauchbecken"
+      "en": "Plunge pool",
+      "de": "Tauchbecken"
     },
     {
       "id": 242,
-      "amenity": "Lap pool",
-      "amenity_de": "Sportbecken"
+      "en": "Lap pool",
+      "de": "Sportbecken"
     },
     {
       "id": 243,
-      "amenity": "Childrens pool",
-      "amenity_de": "Kinderbecken"
+      "en": "Childrens pool",
+      "de": "Kinderbecken"
     },
     {
       "id": 244,
-      "amenity": "Pool house",
-      "amenity_de": "Poolhaus"
+      "en": "Pool house",
+      "de": "Poolhaus"
     },
     {
       "id": 245,
-      "amenity": "Pool waterslide",
-      "amenity_de": "Pool mit Wasserrutsche"
+      "en": "Pool waterslide",
+      "de": "Pool mit Wasserrutsche"
     },
     {
       "id": 246,
-      "amenity": "Pool waterfall",
-      "amenity_de": "Pool mit Wasserfall"
+      "en": "Pool waterfall",
+      "de": "Pool mit Wasserfall"
     },
     {
       "id": 247,
-      "amenity": "Swim up bar",
-      "amenity_de": "Poolbar"
+      "en": "Swim up bar",
+      "de": "Poolbar"
     },
     {
       "id": 248,
-      "amenity": "Sun loungers",
-      "amenity_de": "Liegestühle"
+      "en": "Sun loungers",
+      "de": "Liegestühle"
     },
     {
       "id": 249,
-      "amenity": "Day bed",
-      "amenity_de": "Tagesbett"
+      "en": "Day bed",
+      "de": "Tagesbett"
     },
     {
       "id": 250,
-      "amenity": "Pool toys",
-      "amenity_de": "Poolspielzeug"
+      "en": "Pool toys",
+      "de": "Poolspielzeug"
     },
     {
       "id": 251,
-      "amenity": "Toaster",
-      "amenity_de": "Toaster"
+      "en": "Toaster",
+      "de": "Toaster"
     },
     {
       "id": 252,
-      "amenity": "Stainless steel appliances",
-      "amenity_de": "Edelstahl-Geräte"
+      "en": "Stainless steel appliances",
+      "de": "Edelstahl-Geräte"
     },
     {
       "id": 253,
-      "amenity": "Large mirror",
-      "amenity_de": "Großer Spiegel"
+      "en": "Large mirror",
+      "de": "Großer Spiegel"
     },
     {
       "id": 254,
-      "amenity": "Heated pool",
-      "amenity_de": "Beheizter Pool"
+      "en": "Heated pool",
+      "de": "Beheizter Pool"
     },
     {
       "id": 255,
-      "amenity": "Garden",
-      "amenity_de": "Garten"
+      "en": "Garden",
+      "de": "Garten"
     },
     {
       "id": 256,
-      "amenity": "Private gym",
-      "amenity_de": "Privater Fitnessraum"
+      "en": "Private gym",
+      "de": "Privater Fitnessraum"
     },
     {
       "id": 257,
-      "amenity": "Shared gym",
-      "amenity_de": "Gemeinsam genutzter Fitnessraum"
+      "en": "Shared gym",
+      "de": "Gemeinsam genutzter Fitnessraum"
     },
     {
       "id": 258,
-      "amenity": "Private pool",
-      "amenity_de": "Privater Pool"
+      "en": "Private pool",
+      "de": "Privater Pool"
     },
     {
       "id": 259,
-      "amenity": "Shared pool",
-      "amenity_de": "Gemeinschaftspool"
+      "en": "Shared pool",
+      "de": "Gemeinschaftspool"
     },
     {
       "id": 260,
-      "amenity": "Private hot tub",
-      "amenity_de": "Privater Whirlpool"
+      "en": "Private hot tub",
+      "de": "Privater Whirlpool"
     },
     {
       "id": 261,
-      "amenity": "Shared hot tub",
-      "amenity_de": "Gemeinsam genutzter Whirlpool"
+      "en": "Shared hot tub",
+      "de": "Gemeinsam genutzter Whirlpool"
     },
     {
       "id": 262,
-      "amenity": "Steam oven",
-      "amenity_de": "Dampfgarer"
+      "en": "Steam oven",
+      "de": "Dampfgarer"
     },
     {
       "id": 263,
-      "amenity": "Double oven",
-      "amenity_de": "Doppel-Backofen"
+      "en": "Double oven",
+      "de": "Doppel-Backofen"
     },
     {
       "id": 264,
-      "amenity": "Convection oven",
-      "amenity_de": "Heißluftherd"
+      "en": "Convection oven",
+      "de": "Heißluftherd"
     },
     {
       "id": 265,
-      "amenity": "Netflix",
-      "amenity_de": "Netflix"
+      "en": "Netflix",
+      "de": "Netflix"
     },
     {
       "id": 266,
-      "amenity": "HBO GO",
-      "amenity_de": "HBO GO"
+      "en": "HBO GO",
+      "de": "HBO GO"
     },
     {
       "id": 267,
-      "amenity": "Amazon Echo",
-      "amenity_de": "Amazon Echo"
+      "en": "Amazon Echo",
+      "de": "Amazon Echo"
     },
     {
       "id": 268,
-      "amenity": "Standing valet",
-      "amenity_de": "Stummer Diener"
+      "en": "Standing valet",
+      "de": "Stummer Diener"
     },
     {
       "id": 269,
-      "amenity": "Pillow-top mattress",
-      "amenity_de": "Pillow-Top-Matratze"
+      "en": "Pillow-top mattress",
+      "de": "Pillow-Top-Matratze"
     },
     {
       "id": 270,
-      "amenity": "Memory foam mattress",
-      "amenity_de": "Memory-Schaum-Matratze"
+      "en": "Memory foam mattress",
+      "de": "Memory-Schaum-Matratze"
     },
     {
       "id": 271,
-      "amenity": "High-resolution computer monitor",
-      "amenity_de": "Hochauflösender Computermonitor"
+      "en": "High-resolution computer monitor",
+      "de": "Hochauflösender Computermonitor"
     },
     {
       "id": 272,
-      "amenity": "Fax machine",
-      "amenity_de": "Faxgerät"
+      "en": "Fax machine",
+      "de": "Faxgerät"
     },
     {
       "id": 273,
-      "amenity": "Murphy bed",
-      "amenity_de": "Schrankbett"
+      "en": "Murphy bed",
+      "de": "Schrankbett"
     },
     {
       "id": 274,
-      "amenity": "Wine cooler",
-      "amenity_de": "Weinkühler"
+      "en": "Wine cooler",
+      "de": "Weinkühler"
     },
     {
       "id": 275,
-      "amenity": "En suite bathroom",
-      "amenity_de": "Eigenes Bad im Zimmer"
+      "en": "En suite bathroom",
+      "de": "Eigenes Bad im Zimmer"
     },
     {
       "id": 276,
-      "amenity": "Warming drawer",
-      "amenity_de": "Wärmeschublade"
+      "en": "Warming drawer",
+      "de": "Wärmeschublade"
     },
     {
       "id": 277,
-      "amenity": "Touchless faucets",
-      "amenity_de": "Berührungsfreie Armaturen"
+      "en": "Touchless faucets",
+      "de": "Berührungsfreie Armaturen"
     },
     {
       "id": 278,
-      "amenity": "Pool cover",
-      "amenity_de": "Poolabdeckung"
+      "en": "Pool cover",
+      "de": "Poolabdeckung"
     },
     {
       "id": 279,
-      "amenity": "Heat lamps",
-      "amenity_de": "Wärmelampen"
+      "en": "Heat lamps",
+      "de": "Wärmelampen"
     },
     {
       "id": 280,
-      "amenity": "Outdoor furniture",
-      "amenity_de": "Gartenmöbel"
+      "en": "Outdoor furniture",
+      "de": "Gartenmöbel"
     },
     {
       "id": 281,
-      "amenity": "Soaking tub",
-      "amenity_de": "Badewanne"
+      "en": "Soaking tub",
+      "de": "Badewanne"
     },
     {
       "id": 282,
-      "amenity": "Outdoor parking",
-      "amenity_de": "Außenparkplatz"
+      "en": "Outdoor parking",
+      "de": "Außenparkplatz"
     },
     {
       "id": 283,
-      "amenity": "Walk-in shower",
-      "amenity_de": "Bodengleiche Dusche"
+      "en": "Walk-in shower",
+      "de": "Bodengleiche Dusche"
     },
     {
       "id": 284,
-      "amenity": "Mudroom",
-      "amenity_de": "Schmutzschleuse"
+      "en": "Mudroom",
+      "de": "Schmutzschleuse"
     },
     {
       "id": 285,
-      "amenity": "Full kitchen",
-      "amenity_de": "Komplette Küche"
+      "en": "Full kitchen",
+      "de": "Komplette Küche"
     },
     {
       "id": 286,
-      "amenity": "Crib",
-      "amenity_de": "Babybett"
+      "en": "Crib",
+      "de": "Babybett"
     },
     {
       "id": 287,
-      "amenity": "Paid parking on premises",
-      "amenity_de": "Kostenpflichtige Parkplätze auf dem Gelände"
+      "en": "Paid parking on premises",
+      "de": "Kostenpflichtige Parkplätze auf dem Gelände"
     },
     {
       "id": 288,
-      "amenity": "Electric profiling bed",
-      "amenity_de": "Elektrisches Pflegebett"
+      "en": "Electric profiling bed",
+      "de": "Elektrisches Pflegebett"
     },
     {
       "id": 289,
-      "amenity": "Mobile hoist",
-      "amenity_de": "Mobile Hebevorrichtung"
+      "en": "Mobile hoist",
+      "de": "Mobile Hebevorrichtung"
     },
     {
       "id": 290,
-      "amenity": "Swimming pool or hot tub hoist",
-      "amenity_de": "Pool- oder Whirlpool-Lift"
+      "en": "Swimming pool or hot tub hoist",
+      "de": "Pool- oder Whirlpool-Lift"
     },
     {
       "id": 291,
-      "amenity": "Ceiling or mobile hoist",
-      "amenity_de": "Decken- oder mobiler Lift"
+      "en": "Ceiling or mobile hoist",
+      "de": "Decken- oder mobiler Lift"
     },
     {
       "id": 292,
-      "amenity": "Bedroom comforts",
-      "amenity_de": "Schlafzimmerausstattung"
+      "en": "Bedroom comforts",
+      "de": "Schlafzimmerausstattung"
     },
     {
       "id": 293,
-      "amenity": "Bathroom essentials",
-      "amenity_de": "Badezimmer-Grundausstattung"
+      "en": "Bathroom essentials",
+      "de": "Badezimmer-Grundausstattung"
     },
     {
       "id": 294,
-      "amenity": "Fixed grab bars for shower",
-      "amenity_de": "Fest montierte Haltestangen in der Dusche"
+      "en": "Fixed grab bars for shower",
+      "de": "Fest montierte Haltestangen in der Dusche"
     },
     {
       "id": 295,
-      "amenity": "Fixed grab bars for toilet",
-      "amenity_de": "Fest montierte Haltestangen fürs WC"
+      "en": "Fixed grab bars for toilet",
+      "de": "Fest montierte Haltestangen fürs WC"
     },
     {
       "id": 296,
-      "amenity": "Step-free shower",
-      "amenity_de": "Barrierefreie Dusche"
+      "en": "Step-free shower",
+      "de": "Barrierefreie Dusche"
     },
     {
       "id": 297,
-      "amenity": "Shower or bath chair",
-      "amenity_de": "Dusch- oder Wannensitz"
+      "en": "Shower or bath chair",
+      "de": "Dusch- oder Wannensitz"
     },
     {
       "id": 298,
-      "amenity": "Bathrobe",
-      "amenity_de": "Bademantel"
+      "en": "Bathrobe",
+      "de": "Bademantel"
     },
     {
       "id": 299,
-      "amenity": "Slippers",
-      "amenity_de": "Hausschuhe"
+      "en": "Slippers",
+      "de": "Hausschuhe"
     },
     {
       "id": 300,
-      "amenity": "Daily Newspaper",
-      "amenity_de": "Tageszeitung"
+      "en": "Daily Newspaper",
+      "de": "Tageszeitung"
     },
     {
       "id": 301,
-      "amenity": "Coffee Grinder",
-      "amenity_de": "Kaffeemühle"
+      "en": "Coffee Grinder",
+      "de": "Kaffeemühle"
     },
     {
       "id": 302,
-      "amenity": "Coffee Beans",
-      "amenity_de": "Kaffeebohnen"
+      "en": "Coffee Beans",
+      "de": "Kaffeebohnen"
     },
     {
       "id": 303,
-      "amenity": "Clock Radio",
-      "amenity_de": "Radiowecker"
+      "en": "Clock Radio",
+      "de": "Radiowecker"
     },
     {
       "id": 304,
-      "amenity": "Ironing board",
-      "amenity_de": "Bügelbrett"
+      "en": "Ironing board",
+      "de": "Bügelbrett"
     },
     {
       "id": 305,
-      "amenity": "Blinds",
-      "amenity_de": "Jalousien"
+      "en": "Blinds",
+      "de": "Jalousien"
     },
     {
       "id": 306,
-      "amenity": "Serving Platters",
-      "amenity_de": "Servierplatten"
+      "en": "Serving Platters",
+      "de": "Servierplatten"
     },
     {
       "id": 307,
-      "amenity": "Dumbwaiter",
-      "amenity_de": "Speiseaufzug"
+      "en": "Dumbwaiter",
+      "de": "Speiseaufzug"
     },
     {
       "id": 308,
-      "amenity": "Freezer",
-      "amenity_de": "Gefrierschrank"
+      "en": "Freezer",
+      "de": "Gefrierschrank"
     },
     {
       "id": 309,
-      "amenity": "Toaster Oven",
-      "amenity_de": "Toaster"
+      "en": "Toaster Oven",
+      "de": "Toaster"
     },
     {
       "id": 310,
-      "amenity": "Asian Steamer Pots",
-      "amenity_de": "Asiatische Dampfkochtöpfe"
+      "en": "Asian Steamer Pots",
+      "de": "Asiatische Dampfkochtöpfe"
     },
     {
       "id": 311,
-      "amenity": "Deep Fryer",
-      "amenity_de": "Friteuse"
+      "en": "Deep Fryer",
+      "de": "Friteuse"
     },
     {
       "id": 312,
-      "amenity": "Dough Maker",
-      "amenity_de": "Teigknetmaschine"
+      "en": "Dough Maker",
+      "de": "Teigknetmaschine"
     },
     {
       "id": 313,
-      "amenity": "Food Mixer",
-      "amenity_de": "Mixgerät"
+      "en": "Food Mixer",
+      "de": "Mixgerät"
     },
     {
       "id": 314,
-      "amenity": "Food Processor",
-      "amenity_de": "Küchenmaschine"
+      "en": "Food Processor",
+      "de": "Küchenmaschine"
     },
     {
       "id": 315,
-      "amenity": "Rice maker",
-      "amenity_de": "Reiskocher"
+      "en": "Rice maker",
+      "de": "Reiskocher"
     },
     {
       "id": 316,
-      "amenity": "Popcorn Maker",
-      "amenity_de": "Popcorngerät"
+      "en": "Popcorn Maker",
+      "de": "Popcorngerät"
     },
     {
       "id": 317,
-      "amenity": "Cotton Candy Machine",
-      "amenity_de": "Zuckerwatte-Maschine"
+      "en": "Cotton Candy Machine",
+      "de": "Zuckerwatte-Maschine"
     },
     {
       "id": 318,
-      "amenity": "Frozen Yogurt Machine",
-      "amenity_de": "Frozen-Yoghurt-Gerät"
+      "en": "Frozen Yogurt Machine",
+      "de": "Frozen-Yoghurt-Gerät"
     },
     {
       "id": 319,
-      "amenity": "Slow Cooker",
-      "amenity_de": "Schongarer"
+      "en": "Slow Cooker",
+      "de": "Schongarer"
     },
     {
       "id": 320,
-      "amenity": "Juicer",
-      "amenity_de": "Entsafter"
+      "en": "Juicer",
+      "de": "Entsafter"
     },
     {
       "id": 321,
-      "amenity": "Sodamaster",
-      "amenity_de": "Sodamaster"
+      "en": "Sodamaster",
+      "de": "Sodamaster"
     },
     {
       "id": 322,
-      "amenity": "Blender",
-      "amenity_de": "Mixer"
+      "en": "Blender",
+      "de": "Mixer"
     },
     {
       "id": 323,
-      "amenity": "Portable Cooler",
-      "amenity_de": "Tragbarer Kühler"
+      "en": "Portable Cooler",
+      "de": "Tragbarer Kühler"
     },
     {
       "id": 324,
-      "amenity": "Margarita Machine",
-      "amenity_de": "Margarita-Maschine"
+      "en": "Margarita Machine",
+      "de": "Margarita-Maschine"
     },
     {
       "id": 325,
-      "amenity": "Ice Cream Maker",
-      "amenity_de": "Eismaschine"
+      "en": "Ice Cream Maker",
+      "de": "Eismaschine"
     },
     {
       "id": 326,
-      "amenity": "Water Cooler",
-      "amenity_de": "Wasserkühler"
+      "en": "Water Cooler",
+      "de": "Wasserkühler"
     },
     {
       "id": 327,
-      "amenity": "Water Filtration System",
-      "amenity_de": "Wasserfiltersystem"
+      "en": "Water Filtration System",
+      "de": "Wasserfiltersystem"
     },
     {
       "id": 328,
-      "amenity": "Water Filter",
-      "amenity_de": "Wasserfilter"
+      "en": "Water Filter",
+      "de": "Wasserfilter"
     },
     {
       "id": 329,
-      "amenity": "Ice Cooler",
-      "amenity_de": "Eiskühler"
+      "en": "Ice Cooler",
+      "de": "Eiskühler"
     },
     {
       "id": 330,
-      "amenity": "Ice machine",
-      "amenity_de": "Eismaschine"
+      "en": "Ice machine",
+      "de": "Eismaschine"
     },
     {
       "id": 331,
-      "amenity": "Pour-over coffee",
-      "amenity_de": "Pour Over Coffee"
+      "en": "Pour-over coffee",
+      "de": "Pour Over Coffee"
     },
     {
       "id": 332,
-      "amenity": "Grill",
-      "amenity_de": "Grill"
+      "en": "Grill",
+      "de": "Grill"
     },
     {
       "id": 333,
-      "amenity": "Entertainment System",
-      "amenity_de": "Unterhaltungssystem"
+      "en": "Entertainment System",
+      "de": "Unterhaltungssystem"
     },
     {
       "id": 334,
-      "amenity": "Music system",
-      "amenity_de": "Musikanlage"
+      "en": "Music system",
+      "de": "Musikanlage"
     },
     {
       "id": 335,
-      "amenity": "Movie Collection",
-      "amenity_de": "Filmsammlung"
+      "en": "Movie Collection",
+      "de": "Filmsammlung"
     },
     {
       "id": 336,
-      "amenity": "Phone",
-      "amenity_de": "Telefon"
+      "en": "Phone",
+      "de": "Telefon"
     },
     {
       "id": 337,
-      "amenity": "Cell Reception",
-      "amenity_de": "Handyempfang"
+      "en": "Cell Reception",
+      "de": "Handyempfang"
     },
     {
       "id": 338,
-      "amenity": "Walkie Talkie",
-      "amenity_de": "Walkie-Talkie"
+      "en": "Walkie Talkie",
+      "de": "Walkie-Talkie"
     },
     {
       "id": 339,
-      "amenity": "Baby Safety Gate",
-      "amenity_de": "Baby-Sicherheitsgitter"
+      "en": "Baby Safety Gate",
+      "de": "Baby-Sicherheitsgitter"
     },
     {
       "id": 340,
-      "amenity": "Baby Pool Safety Fence",
-      "amenity_de": "Baby-Sicherheitszaun für den Pool"
+      "en": "Baby Pool Safety Fence",
+      "de": "Baby-Sicherheitszaun für den Pool"
     },
     {
       "id": 341,
-      "amenity": "Baby Car Seat",
-      "amenity_de": "Baby-Autositz"
+      "en": "Baby Car Seat",
+      "de": "Baby-Autositz"
     },
     {
       "id": 342,
-      "amenity": "Baby Stroller",
-      "amenity_de": "Kinderwagen"
+      "en": "Baby Stroller",
+      "de": "Kinderwagen"
     },
     {
       "id": 343,
-      "amenity": "Seabob",
-      "amenity_de": "Seabob"
+      "en": "Seabob",
+      "de": "Seabob"
     },
     {
       "id": 344,
-      "amenity": "Boat",
-      "amenity_de": "Boot"
+      "en": "Boat",
+      "de": "Boot"
     },
     {
       "id": 345,
-      "amenity": "Jungle Gym",
-      "amenity_de": "Spielgeräte"
+      "en": "Jungle Gym",
+      "de": "Spielgeräte"
     },
     {
       "id": 346,
-      "amenity": "Telescope",
-      "amenity_de": "Teleskop"
+      "en": "Telescope",
+      "de": "Teleskop"
     },
     {
       "id": 347,
-      "amenity": "Piano",
-      "amenity_de": "Klavier"
+      "en": "Piano",
+      "de": "Klavier"
     },
     {
       "id": 348,
-      "amenity": "Guitar",
-      "amenity_de": "Gitarre"
+      "en": "Guitar",
+      "de": "Gitarre"
     },
     {
       "id": 349,
-      "amenity": "Games",
-      "amenity_de": "Spiele"
+      "en": "Games",
+      "de": "Spiele"
     },
     {
       "id": 350,
-      "amenity": "Tea",
-      "amenity_de": "Tee"
+      "en": "Tea",
+      "de": "Tee"
     },
     {
       "id": 351,
-      "amenity": "Clothing Steamer",
-      "amenity_de": "Dampfglätter"
+      "en": "Clothing Steamer",
+      "de": "Dampfglätter"
     },
     {
       "id": 352,
-      "amenity": "Spa equipment",
-      "amenity_de": "Spa-Ausstattung"
+      "en": "Spa equipment",
+      "de": "Spa-Ausstattung"
     },
     {
       "id": 353,
-      "amenity": "Kitchen Appliances",
-      "amenity_de": "Küchengeräte"
+      "en": "Kitchen Appliances",
+      "de": "Küchengeräte"
     },
     {
       "id": 354,
-      "amenity": "Streaming Services",
-      "amenity_de": "Streaming-Dienste"
+      "en": "Streaming Services",
+      "de": "Streaming-Dienste"
     },
     {
       "id": 355,
-      "amenity": "Video Games",
-      "amenity_de": "Videospiele"
+      "en": "Video Games",
+      "de": "Videospiele"
     },
     {
       "id": 356,
-      "amenity": "Smart Technology",
-      "amenity_de": "Smart Technology"
+      "en": "Smart Technology",
+      "de": "Smart Technology"
     },
     {
       "id": 357,
-      "amenity": "Lighting",
-      "amenity_de": "Beleuchtung"
+      "en": "Lighting",
+      "de": "Beleuchtung"
     },
     {
       "id": 358,
-      "amenity": "Device Chargers",
-      "amenity_de": "Ladegeräte"
+      "en": "Device Chargers",
+      "de": "Ladegeräte"
     },
     {
       "id": 359,
-      "amenity": "Arts and Crafts",
-      "amenity_de": "Kunst und Handwerk"
+      "en": "Arts and Crafts",
+      "de": "Kunst und Handwerk"
     },
     {
       "id": 360,
-      "amenity": "Playpen",
-      "amenity_de": "Laufstall"
+      "en": "Playpen",
+      "de": "Laufstall"
     },
     {
       "id": 361,
-      "amenity": "Kids TV Room",
-      "amenity_de": "Fernsehzimmer für Kinder"
+      "en": "Kids TV Room",
+      "de": "Fernsehzimmer für Kinder"
     },
     {
       "id": 362,
-      "amenity": "Playhouse",
-      "amenity_de": "Spielhaus"
+      "en": "Playhouse",
+      "de": "Spielhaus"
     },
     {
       "id": 363,
-      "amenity": "Children's playroom",
-      "amenity_de": "Kinderspielzimmer"
+      "en": "Children's playroom",
+      "de": "Kinderspielzimmer"
     },
     {
       "id": 364,
-      "amenity": "Outdoor playground",
-      "amenity_de": "Spielplatz im Freien"
+      "en": "Outdoor playground",
+      "de": "Spielplatz im Freien"
     },
     {
       "id": 365,
-      "amenity": "Bottle Warmers",
-      "amenity_de": "Flaschenwärmer"
+      "en": "Bottle Warmers",
+      "de": "Flaschenwärmer"
     },
     {
       "id": 366,
-      "amenity": "Wheelchair",
-      "amenity_de": "Rollstuhl"
+      "en": "Wheelchair",
+      "de": "Rollstuhl"
     },
     {
       "id": 367,
-      "amenity": "Indoor Pool",
-      "amenity_de": "Innenpool"
+      "en": "Indoor Pool",
+      "de": "Innenpool"
     },
     {
       "id": 368,
-      "amenity": "Golf",
-      "amenity_de": "Golf"
+      "en": "Golf",
+      "de": "Golf"
     },
     {
       "id": 369,
-      "amenity": "Air hockey table",
-      "amenity_de": "Air-Hockey-Tisch"
+      "en": "Air hockey table",
+      "de": "Air-Hockey-Tisch"
     },
     {
       "id": 370,
-      "amenity": "Apple TV",
-      "amenity_de": "Apple TV"
+      "en": "Apple TV",
+      "de": "Apple TV"
     },
     {
       "id": 371,
-      "amenity": "Arcade games",
-      "amenity_de": "Arcade-Spiele"
+      "en": "Arcade games",
+      "de": "Arcade-Spiele"
     },
     {
       "id": 372,
-      "amenity": "Art gallery",
-      "amenity_de": "Kunstgalerie"
+      "en": "Art gallery",
+      "de": "Kunstgalerie"
     },
     {
       "id": 373,
-      "amenity": "Art studio",
-      "amenity_de": "Kunstatelier"
+      "en": "Art studio",
+      "de": "Kunstatelier"
     },
     {
       "id": 374,
-      "amenity": "Attic",
-      "amenity_de": "Dachboden"
+      "en": "Attic",
+      "de": "Dachboden"
     },
     {
       "id": 375,
-      "amenity": "Baby bath kit",
-      "amenity_de": "Babybadewanne"
+      "en": "Baby bath kit",
+      "de": "Babybadewanne"
     },
     {
       "id": 376,
-      "amenity": "Baby equipment",
-      "amenity_de": "Babyausstattung"
+      "en": "Baby equipment",
+      "de": "Babyausstattung"
     },
     {
       "id": 377,
-      "amenity": "Backgammon",
-      "amenity_de": "Backgammon"
+      "en": "Backgammon",
+      "de": "Backgammon"
     },
     {
       "id": 378,
-      "amenity": "Badminton field",
-      "amenity_de": "Badmintonfeld"
+      "en": "Badminton field",
+      "de": "Badmintonfeld"
     },
     {
       "id": 379,
-      "amenity": "Banquet hall",
-      "amenity_de": "Festsaal"
+      "en": "Banquet hall",
+      "de": "Festsaal"
     },
     {
       "id": 380,
-      "amenity": "Bathrobes",
-      "amenity_de": "Bademäntel"
+      "en": "Bathrobes",
+      "de": "Bademäntel"
     },
     {
       "id": 381,
-      "amenity": "Beach",
-      "amenity_de": "Strand"
+      "en": "Beach",
+      "de": "Strand"
     },
     {
       "id": 382,
-      "amenity": "Beach bar",
-      "amenity_de": "Strandbar"
+      "en": "Beach bar",
+      "de": "Strandbar"
     },
     {
       "id": 383,
-      "amenity": "Beach club",
-      "amenity_de": "Strandclub"
+      "en": "Beach club",
+      "de": "Strandclub"
     },
     {
       "id": 384,
-      "amenity": "Beach house",
-      "amenity_de": "Strandhaus"
+      "en": "Beach house",
+      "de": "Strandhaus"
     },
     {
       "id": 385,
-      "amenity": "Beach towels",
-      "amenity_de": "Strandtücher"
+      "en": "Beach towels",
+      "de": "Strandtücher"
     },
     {
       "id": 386,
-      "amenity": "Beach umbrella",
-      "amenity_de": "Sonnenschirm"
+      "en": "Beach umbrella",
+      "de": "Sonnenschirm"
     },
     {
       "id": 387,
-      "amenity": "Belgian wafflemaker",
-      "amenity_de": "Belgisches Waffeleisen"
+      "en": "Belgian wafflemaker",
+      "de": "Belgisches Waffeleisen"
     },
     {
       "id": 388,
-      "amenity": "Bike storage",
-      "amenity_de": "Fahrradaufbewahrung"
+      "en": "Bike storage",
+      "de": "Fahrradaufbewahrung"
     },
     {
       "id": 389,
-      "amenity": "Binoculars",
-      "amenity_de": "Fernglas"
+      "en": "Binoculars",
+      "de": "Fernglas"
     },
     {
       "id": 390,
-      "amenity": "Bluetooth speaker",
-      "amenity_de": "Bluetooth-Lautsprecher"
+      "en": "Bluetooth speaker",
+      "de": "Bluetooth-Lautsprecher"
     },
     {
       "id": 391,
-      "amenity": "Blu-Ray player",
-      "amenity_de": "Blu-ray-Player"
+      "en": "Blu-Ray player",
+      "de": "Blu-ray-Player"
     },
     {
       "id": 392,
-      "amenity": "Board games",
-      "amenity_de": "Brettspiele"
+      "en": "Board games",
+      "de": "Brettspiele"
     },
     {
       "id": 393,
-      "amenity": "Bocce ball court",
-      "amenity_de": "Bocciabahn"
+      "en": "Bocce ball court",
+      "de": "Bocciabahn"
     },
     {
       "id": 394,
-      "amenity": "Books and reading material",
-      "amenity_de": "Bücher und Lesematerial"
+      "en": "Books and reading material",
+      "de": "Bücher und Lesematerial"
     },
     {
       "id": 395,
-      "amenity": "Booster seat",
-      "amenity_de": "Sitzerhöhung"
+      "en": "Booster seat",
+      "de": "Sitzerhöhung"
     },
     {
       "id": 396,
-      "amenity": "Boot dryers",
-      "amenity_de": "Schuhtrockner"
+      "en": "Boot dryers",
+      "de": "Schuhtrockner"
     },
     {
       "id": 397,
-      "amenity": "Bose sound system",
-      "amenity_de": "Bose-Soundsystem"
+      "en": "Bose sound system",
+      "de": "Bose-Soundsystem"
     },
     {
       "id": 398,
-      "amenity": "Bose stereo",
-      "amenity_de": "Bose-Stereo"
+      "en": "Bose stereo",
+      "de": "Bose-Stereo"
     },
     {
       "id": 399,
-      "amenity": "Boutique",
-      "amenity_de": "Boutique"
+      "en": "Boutique",
+      "de": "Boutique"
     },
     {
       "id": 400,
-      "amenity": "Boxing ring",
-      "amenity_de": "Boxring"
+      "en": "Boxing ring",
+      "de": "Boxring"
     },
     {
       "id": 401,
-      "amenity": "Business center",
-      "amenity_de": "Business-Center"
+      "en": "Business center",
+      "de": "Business-Center"
     },
     {
       "id": 402,
-      "amenity": "Card room",
-      "amenity_de": "Kartenraum"
+      "en": "Card room",
+      "de": "Kartenraum"
     },
     {
       "id": 403,
-      "amenity": "Card table",
-      "amenity_de": "Kartentisch"
+      "en": "Card table",
+      "de": "Kartentisch"
     },
     {
       "id": 404,
-      "amenity": "Car seat",
-      "amenity_de": "Autositz"
+      "en": "Car seat",
+      "de": "Autositz"
     },
     {
       "id": 405,
-      "amenity": "CD player",
-      "amenity_de": "CD-Player"
+      "en": "CD player",
+      "de": "CD-Player"
     },
     {
       "id": 406,
-      "amenity": "Ceiling fans",
-      "amenity_de": "Deckenventilatoren"
+      "en": "Ceiling fans",
+      "de": "Deckenventilatoren"
     },
     {
       "id": 407,
-      "amenity": "Champagne bar",
-      "amenity_de": "Champagner-Bar"
+      "en": "Champagne bar",
+      "de": "Champagner-Bar"
     },
     {
       "id": 408,
-      "amenity": "Chef's kitchen",
-      "amenity_de": "Profi-Küche"
+      "en": "Chef's kitchen",
+      "de": "Profi-Küche"
     },
     {
       "id": 409,
-      "amenity": "Childproof bedroom",
-      "amenity_de": "Kindersicheres Schlafzimmer"
+      "en": "Childproof bedroom",
+      "de": "Kindersicheres Schlafzimmer"
     },
     {
       "id": 410,
-      "amenity": "Children's books",
-      "amenity_de": "Kinderbücher"
+      "en": "Children's books",
+      "de": "Kinderbücher"
     },
     {
       "id": 411,
-      "amenity": "Children's toys",
-      "amenity_de": "Kinderspielzeug"
+      "en": "Children's toys",
+      "de": "Kinderspielzeug"
     },
     {
       "id": 412,
-      "amenity": "Cigar room",
-      "amenity_de": "Zigarrenraum"
+      "en": "Cigar room",
+      "de": "Zigarrenraum"
     },
     {
       "id": 413,
-      "amenity": "Clothes steamer",
-      "amenity_de": "Dampfglätter"
+      "en": "Clothes steamer",
+      "de": "Dampfglätter"
     },
     {
       "id": 414,
-      "amenity": "Coatroom",
-      "amenity_de": "Garderobe"
+      "en": "Coatroom",
+      "de": "Garderobe"
     },
     {
       "id": 415,
-      "amenity": "Coffee",
-      "amenity_de": "Kaffee"
+      "en": "Coffee",
+      "de": "Kaffee"
     },
     {
       "id": 416,
-      "amenity": "Conference center",
-      "amenity_de": "Konferenzzentrum"
+      "en": "Conference center",
+      "de": "Konferenzzentrum"
     },
     {
       "id": 417,
-      "amenity": "Conference room",
-      "amenity_de": "Konferenzraum"
+      "en": "Conference room",
+      "de": "Konferenzraum"
     },
     {
       "id": 418,
-      "amenity": "Copier",
-      "amenity_de": "Kopierer"
+      "en": "Copier",
+      "de": "Kopierer"
     },
     {
       "id": 419,
-      "amenity": "Cordless phone",
-      "amenity_de": "Schnurloses Telefon"
+      "en": "Cordless phone",
+      "de": "Schnurloses Telefon"
     },
     {
       "id": 420,
-      "amenity": "Courtyard",
-      "amenity_de": "Hof"
+      "en": "Courtyard",
+      "de": "Hof"
     },
     {
       "id": 421,
-      "amenity": "Cradle",
-      "amenity_de": "Wiege"
+      "en": "Cradle",
+      "de": "Wiege"
     },
     {
       "id": 422,
-      "amenity": "Creek",
-      "amenity_de": "Bach"
+      "en": "Creek",
+      "de": "Bach"
     },
     {
       "id": 423,
-      "amenity": "Cross trainer",
-      "amenity_de": "Crosstrainer"
+      "en": "Cross trainer",
+      "de": "Crosstrainer"
     },
     {
       "id": 424,
-      "amenity": "Dance floor",
-      "amenity_de": "Tanzfläche"
+      "en": "Dance floor",
+      "de": "Tanzfläche"
     },
     {
       "id": 425,
-      "amenity": "Dance room",
-      "amenity_de": "Tanzraum"
+      "en": "Dance room",
+      "de": "Tanzraum"
     },
     {
       "id": 426,
-      "amenity": "Darts",
-      "amenity_de": "Darts"
+      "en": "Darts",
+      "de": "Darts"
     },
     {
       "id": 427,
-      "amenity": "Decorative fireplace",
-      "amenity_de": "Dekorativer Kamin"
+      "en": "Decorative fireplace",
+      "de": "Dekorativer Kamin"
     },
     {
       "id": 428,
-      "amenity": "Dining area",
-      "amenity_de": "Essbereich"
+      "en": "Dining area",
+      "de": "Essbereich"
     },
     {
       "id": 429,
-      "amenity": "Discotheque",
-      "amenity_de": "Diskothek"
+      "en": "Discotheque",
+      "de": "Diskothek"
     },
     {
       "id": 430,
-      "amenity": "DJ booth",
-      "amenity_de": "DJ-Pult"
+      "en": "DJ booth",
+      "de": "DJ-Pult"
     },
     {
       "id": 431,
-      "amenity": "DJ platform",
-      "amenity_de": "DJ-Plattform"
+      "en": "DJ platform",
+      "de": "DJ-Plattform"
     },
     {
       "id": 432,
-      "amenity": "DJ turntables",
-      "amenity_de": "DJ-Turntables"
+      "en": "DJ turntables",
+      "de": "DJ-Turntables"
     },
     {
       "id": 433,
-      "amenity": "Dock",
-      "amenity_de": "Dock"
+      "en": "Dock",
+      "de": "Dock"
     },
     {
       "id": 434,
-      "amenity": "DVR",
-      "amenity_de": "DVR"
+      "en": "DVR",
+      "de": "DVR"
     },
     {
       "id": 435,
-      "amenity": "Electric blinds",
-      "amenity_de": "Elektrische Rollos"
+      "en": "Electric blinds",
+      "de": "Elektrische Rollos"
     },
     {
       "id": 436,
-      "amenity": "Exercise balls",
-      "amenity_de": "Übungsbälle"
+      "en": "Exercise balls",
+      "de": "Übungsbälle"
     },
     {
       "id": 437,
-      "amenity": "Exercise bike",
-      "amenity_de": "Heimtrainer"
+      "en": "Exercise bike",
+      "de": "Heimtrainer"
     },
     {
       "id": 438,
-      "amenity": "Exercise mat",
-      "amenity_de": "Trainingsmatte"
+      "en": "Exercise mat",
+      "de": "Trainingsmatte"
     },
     {
       "id": 439,
-      "amenity": "Fishing boat",
-      "amenity_de": "Fischerboot"
+      "en": "Fishing boat",
+      "de": "Fischerboot"
     },
     {
       "id": 440,
-      "amenity": "Flattop grill",
-      "amenity_de": "Flattop-Grill"
+      "en": "Flattop grill",
+      "de": "Flattop-Grill"
     },
     {
       "id": 441,
-      "amenity": "Floor cooling",
-      "amenity_de": "Bodenkühlung"
+      "en": "Floor cooling",
+      "de": "Bodenkühlung"
     },
     {
       "id": 442,
-      "amenity": "Foosball table",
-      "amenity_de": "Kickertisch"
+      "en": "Foosball table",
+      "de": "Kickertisch"
     },
     {
       "id": 443,
-      "amenity": "Formula 1 simulator",
-      "amenity_de": "Formel-1-Simulator"
+      "en": "Formula 1 simulator",
+      "de": "Formel-1-Simulator"
     },
     {
       "id": 444,
-      "amenity": "Free weights",
-      "amenity_de": "Freie Gewichte"
+      "en": "Free weights",
+      "de": "Freie Gewichte"
     },
     {
       "id": 445,
-      "amenity": "Frette sheets",
-      "amenity_de": "Frette-Laken"
+      "en": "Frette sheets",
+      "de": "Frette-Laken"
     },
     {
       "id": 446,
-      "amenity": "Game room",
-      "amenity_de": "Spielzimmer"
+      "en": "Game room",
+      "de": "Spielzimmer"
     },
     {
       "id": 447,
-      "amenity": "Game table",
-      "amenity_de": "Spieltisch"
+      "en": "Game table",
+      "de": "Spieltisch"
     },
     {
       "id": 448,
-      "amenity": "Gas burning stove",
-      "amenity_de": "Gasherd"
+      "en": "Gas burning stove",
+      "de": "Gasherd"
     },
     {
       "id": 449,
-      "amenity": "Gas fireplace",
-      "amenity_de": "Gaskamin"
+      "en": "Gas fireplace",
+      "de": "Gaskamin"
     },
     {
       "id": 450,
-      "amenity": "Gas grill",
-      "amenity_de": "Gasgrill"
+      "en": "Gas grill",
+      "de": "Gasgrill"
     },
     {
       "id": 451,
-      "amenity": "Golf course access",
-      "amenity_de": "Zugang zum Golfplatz"
+      "en": "Golf course access",
+      "de": "Zugang zum Golfplatz"
     },
     {
       "id": 452,
-      "amenity": "Google Home",
-      "amenity_de": "Google Home"
+      "en": "Google Home",
+      "de": "Google Home"
     },
     {
       "id": 453,
-      "amenity": "Grass tennis court",
-      "amenity_de": "Tennisplatz mit Rasen"
+      "en": "Grass tennis court",
+      "de": "Tennisplatz mit Rasen"
     },
     {
       "id": 454,
-      "amenity": "Guesthouse",
-      "amenity_de": "Gästehaus"
+      "en": "Guesthouse",
+      "de": "Gästehaus"
     },
     {
       "id": 455,
-      "amenity": "Hair salon",
-      "amenity_de": "Friseur"
+      "en": "Hair salon",
+      "de": "Friseur"
     },
     {
       "id": 456,
-      "amenity": "Heated boot rack",
-      "amenity_de": "Beheizter Gepäckträger"
+      "en": "Heated boot rack",
+      "de": "Beheizter Gepäckträger"
     },
     {
       "id": 457,
-      "amenity": "Heated floor",
-      "amenity_de": "Fußbodenheizung"
+      "en": "Heated floor",
+      "de": "Fußbodenheizung"
     },
     {
       "id": 458,
-      "amenity": "Heated infinity pool",
-      "amenity_de": "Beheizter Infinity-Pool"
+      "en": "Heated infinity pool",
+      "de": "Beheizter Infinity-Pool"
     },
     {
       "id": 459,
-      "amenity": "Movie theater",
-      "amenity_de": "Kino"
+      "en": "Movie theater",
+      "de": "Kino"
     },
     {
       "id": 460,
-      "amenity": "Horseshoes",
-      "amenity_de": "Hufeisen"
+      "en": "Horseshoes",
+      "de": "Hufeisen"
     },
     {
       "id": 461,
-      "amenity": "Hospital",
-      "amenity_de": "Krankenhaus"
+      "en": "Hospital",
+      "de": "Krankenhaus"
     },
     {
       "id": 462,
-      "amenity": "Humidifier",
-      "amenity_de": "Luftbefeuchter"
+      "en": "Humidifier",
+      "de": "Luftbefeuchter"
     },
     {
       "id": 463,
-      "amenity": "Immersion blender",
-      "amenity_de": "Pürierstab"
+      "en": "Immersion blender",
+      "de": "Pürierstab"
     },
     {
       "id": 464,
-      "amenity": "Induction cooker",
-      "amenity_de": "Induktionsherd"
+      "en": "Induction cooker",
+      "de": "Induktionsherd"
     },
     {
       "id": 465,
-      "amenity": "Infrared sauna",
-      "amenity_de": "Infrarotsauna"
+      "en": "Infrared sauna",
+      "de": "Infrarotsauna"
     },
     {
       "id": 466,
-      "amenity": "iPad",
-      "amenity_de": "iPad"
+      "en": "iPad",
+      "de": "iPad"
     },
     {
       "id": 467,
-      "amenity": "iPhone dock",
-      "amenity_de": "iPhone-Dock"
+      "en": "iPhone dock",
+      "de": "iPhone-Dock"
     },
     {
       "id": 468,
-      "amenity": "iPhone speaker",
-      "amenity_de": "iPhone-Lautsprecher"
+      "en": "iPhone speaker",
+      "de": "iPhone-Lautsprecher"
     },
     {
       "id": 469,
-      "amenity": "iPod dock",
-      "amenity_de": "iPod-Dock"
+      "en": "iPod dock",
+      "de": "iPod-Dock"
     },
     {
       "id": 470,
-      "amenity": "iPod speaker",
-      "amenity_de": "iPod-Lautsprecher"
+      "en": "iPod speaker",
+      "de": "iPod-Lautsprecher"
     },
     {
       "id": 471,
-      "amenity": "Jogging track",
-      "amenity_de": "Joggingpfad"
+      "en": "Jogging track",
+      "de": "Joggingpfad"
     },
     {
       "id": 472,
-      "amenity": "Jukebox",
-      "amenity_de": "Jukebox"
+      "en": "Jukebox",
+      "de": "Jukebox"
     },
     {
       "id": 473,
-      "amenity": "Juliet balcony",
-      "amenity_de": "Julia-Balkon"
+      "en": "Juliet balcony",
+      "de": "Julia-Balkon"
     },
     {
       "id": 474,
-      "amenity": "Karaoke machine",
-      "amenity_de": "Karaoke-Maschine"
+      "en": "Karaoke machine",
+      "de": "Karaoke-Maschine"
     },
     {
       "id": 475,
-      "amenity": "Kayaks",
-      "amenity_de": "Kajaks"
+      "en": "Kayaks",
+      "de": "Kajaks"
     },
     {
       "id": 476,
-      "amenity": "Keurig coffee machine",
-      "amenity_de": "Keurig-Kaffeemaschine"
+      "en": "Keurig coffee machine",
+      "de": "Keurig-Kaffeemaschine"
     },
     {
       "id": 477,
-      "amenity": "Kids' club",
-      "amenity_de": "Kinderclub"
+      "en": "Kids' club",
+      "de": "Kinderclub"
     },
     {
       "id": 478,
-      "amenity": "Lanai",
-      "amenity_de": "Lanai"
+      "en": "Lanai",
+      "de": "Lanai"
     },
     {
       "id": 479,
-      "amenity": "Laptop",
-      "amenity_de": "Laptop"
+      "en": "Laptop",
+      "de": "Laptop"
     },
     {
       "id": 480,
-      "amenity": "Library",
-      "amenity_de": "Archiv"
+      "en": "Library",
+      "de": "Archiv"
     },
     {
       "id": 481,
-      "amenity": "Lookout point",
-      "amenity_de": "Aussichtspunkt"
+      "en": "Lookout point",
+      "de": "Aussichtspunkt"
     },
     {
       "id": 482,
-      "amenity": "Lounge chairs",
-      "amenity_de": "Lounge-Stühle"
+      "en": "Lounge chairs",
+      "de": "Lounge-Stühle"
     },
     {
       "id": 483,
-      "amenity": "Luggage storage",
-      "amenity_de": "Gepäckaufbewahrung"
+      "en": "Luggage storage",
+      "de": "Gepäckaufbewahrung"
     },
     {
       "id": 484,
-      "amenity": "Mahjong table",
-      "amenity_de": "Mahjong-Tisch"
+      "en": "Mahjong table",
+      "de": "Mahjong-Tisch"
     },
     {
       "id": 485,
-      "amenity": "Massage bale",
-      "amenity_de": "Massageballen"
+      "en": "Massage bale",
+      "de": "Massageballen"
     },
     {
       "id": 486,
-      "amenity": "Massage bed",
-      "amenity_de": "Massagebett"
+      "en": "Massage bed",
+      "de": "Massagebett"
     },
     {
       "id": 487,
-      "amenity": "Massage chair",
-      "amenity_de": "Massagesessel"
+      "en": "Massage chair",
+      "de": "Massagesessel"
     },
     {
       "id": 488,
-      "amenity": "Massage couch",
-      "amenity_de": "Massageliege"
+      "en": "Massage couch",
+      "de": "Massageliege"
     },
     {
       "id": 489,
-      "amenity": "Massage room",
-      "amenity_de": "Massageraum"
+      "en": "Massage room",
+      "de": "Massageraum"
     },
     {
       "id": 490,
-      "amenity": "Media room",
-      "amenity_de": "Medienraum"
+      "en": "Media room",
+      "de": "Medienraum"
     },
     {
       "id": 491,
-      "amenity": "Meditation room",
-      "amenity_de": "Meditationsraum"
+      "en": "Meditation room",
+      "de": "Meditationsraum"
     },
     {
       "id": 492,
-      "amenity": "Minibar",
-      "amenity_de": "Minibar"
+      "en": "Minibar",
+      "de": "Minibar"
     },
     {
       "id": 493,
-      "amenity": "Monitor",
-      "amenity_de": "Monitor"
+      "en": "Monitor",
+      "de": "Monitor"
     },
     {
       "id": 494,
-      "amenity": "Mosquito misting system",
-      "amenity_de": "Moskito-Vernebelungssystem"
+      "en": "Mosquito misting system",
+      "de": "Moskito-Vernebelungssystem"
     },
     {
       "id": 495,
-      "amenity": "Mosquito trap",
-      "amenity_de": "Moskitofalle"
+      "en": "Mosquito trap",
+      "de": "Moskitofalle"
     },
     {
       "id": 496,
-      "amenity": "MP3 player",
-      "amenity_de": "MP3-Player"
+      "en": "MP3 player",
+      "de": "MP3-Player"
     },
     {
       "id": 497,
-      "amenity": "Multi-jet shower",
-      "amenity_de": "Multijet-Dusche"
+      "en": "Multi-jet shower",
+      "de": "Multijet-Dusche"
     },
     {
       "id": 498,
-      "amenity": "Multi-level pool",
-      "amenity_de": "Multi-Level-Pool"
+      "en": "Multi-level pool",
+      "de": "Multi-Level-Pool"
     },
     {
       "id": 499,
-      "amenity": "Music room",
-      "amenity_de": "Musikzimmer"
+      "en": "Music room",
+      "de": "Musikzimmer"
     },
     {
       "id": 500,
-      "amenity": "Nespresso machine",
-      "amenity_de": "Nespresso-Maschine"
+      "en": "Nespresso machine",
+      "de": "Nespresso-Maschine"
     },
     {
       "id": 501,
-      "amenity": "Nest thermometer",
-      "amenity_de": "Nest-Thermometer"
+      "en": "Nest thermometer",
+      "de": "Nest-Thermometer"
     },
     {
       "id": 502,
-      "amenity": "Nightclub",
-      "amenity_de": "Nachtclub"
+      "en": "Nightclub",
+      "de": "Nachtclub"
     },
     {
       "id": 503,
-      "amenity": "Nintendo Wii",
-      "amenity_de": "Nintendo Wii"
+      "en": "Nintendo Wii",
+      "de": "Nintendo Wii"
     },
     {
       "id": 504,
-      "amenity": "Outdoor adapter",
-      "amenity_de": "Outdoor-Adapter"
+      "en": "Outdoor adapter",
+      "de": "Outdoor-Adapter"
     },
     {
       "id": 505,
-      "amenity": "Paddle boats",
-      "amenity_de": "Paddelboote"
+      "en": "Paddle boats",
+      "de": "Paddelboote"
     },
     {
       "id": 506,
-      "amenity": "Palapa",
-      "amenity_de": "Palapa"
+      "en": "Palapa",
+      "de": "Palapa"
     },
     {
       "id": 507,
-      "amenity": "Pantry",
-      "amenity_de": "Pantry"
+      "en": "Pantry",
+      "de": "Pantry"
     },
     {
       "id": 508,
-      "amenity": "Parasols",
-      "amenity_de": "Sonnenschirme"
+      "en": "Parasols",
+      "de": "Sonnenschirme"
     },
     {
       "id": 509,
-      "amenity": "Party lighting",
-      "amenity_de": "Partybeleuchtung"
+      "en": "Party lighting",
+      "de": "Partybeleuchtung"
     },
     {
       "id": 510,
-      "amenity": "Patio",
-      "amenity_de": "Terrasse"
+      "en": "Patio",
+      "de": "Terrasse"
     },
     {
       "id": 511,
-      "amenity": "Petanque court",
-      "amenity_de": "Petanque-Spielfeld"
+      "en": "Petanque court",
+      "de": "Petanque-Spielfeld"
     },
     {
       "id": 512,
-      "amenity": "Pilates room",
-      "amenity_de": "Pilates-Raum"
+      "en": "Pilates room",
+      "de": "Pilates-Raum"
     },
     {
       "id": 513,
-      "amenity": "Pillow menu",
-      "amenity_de": "Kissen-Auswahl"
+      "en": "Pillow menu",
+      "de": "Kissen-Auswahl"
     },
     {
       "id": 514,
-      "amenity": "Pinball machine",
-      "amenity_de": "Flipperautomat"
+      "en": "Pinball machine",
+      "de": "Flipperautomat"
     },
     {
       "id": 515,
-      "amenity": "Ping pong table",
-      "amenity_de": "Tischtennisplatte"
+      "en": "Ping pong table",
+      "de": "Tischtennisplatte"
     },
     {
       "id": 516,
-      "amenity": "Pizza oven",
-      "amenity_de": "Pizzaofen"
+      "en": "Pizza oven",
+      "de": "Pizzaofen"
     },
     {
       "id": 517,
-      "amenity": "PlayStation",
-      "amenity_de": "PlayStation"
+      "en": "PlayStation",
+      "de": "PlayStation"
     },
     {
       "id": 518,
-      "amenity": "Poker table",
-      "amenity_de": "Pokertisch"
+      "en": "Poker table",
+      "de": "Pokertisch"
     },
     {
       "id": 519,
-      "amenity": "Pool bar",
-      "amenity_de": "Poolbar"
+      "en": "Pool bar",
+      "de": "Poolbar"
     },
     {
       "id": 520,
-      "amenity": "Pool safety fence",
-      "amenity_de": "Sicherheitszaun am Pool"
+      "en": "Pool safety fence",
+      "de": "Sicherheitszaun am Pool"
     },
     {
       "id": 521,
-      "amenity": "Pool table",
-      "amenity_de": "Billardtisch"
+      "en": "Pool table",
+      "de": "Billardtisch"
     },
     {
       "id": 522,
-      "amenity": "Portable fans",
-      "amenity_de": "Tragbare Ventilatoren"
+      "en": "Portable fans",
+      "de": "Tragbare Ventilatoren"
     },
     {
       "id": 523,
-      "amenity": "Powder room",
-      "amenity_de": "Gästetoilette"
+      "en": "Powder room",
+      "de": "Gästetoilette"
     },
     {
       "id": 524,
-      "amenity": "Pressure cooker",
-      "amenity_de": "Dampfkochtopf"
+      "en": "Pressure cooker",
+      "de": "Dampfkochtopf"
     },
     {
       "id": 525,
-      "amenity": "Projector",
-      "amenity_de": "Beamer"
+      "en": "Projector",
+      "de": "Beamer"
     },
     {
       "id": 526,
-      "amenity": "Reception area",
-      "amenity_de": "Empfangsbereich"
+      "en": "Reception area",
+      "de": "Empfangsbereich"
     },
     {
       "id": 527,
-      "amenity": "Record player",
-      "amenity_de": "Plattenspieler"
+      "en": "Record player",
+      "de": "Plattenspieler"
     },
     {
       "id": 528,
-      "amenity": "Resort access",
-      "amenity_de": "Zugang zum Resort"
+      "en": "Resort access",
+      "de": "Zugang zum Resort"
     },
     {
       "id": 529,
-      "amenity": "Restaurant",
-      "amenity_de": "Restaurant"
+      "en": "Restaurant",
+      "de": "Restaurant"
     },
     {
       "id": 530,
-      "amenity": "Riding arena",
-      "amenity_de": "Reitplatz"
+      "en": "Riding arena",
+      "de": "Reitplatz"
     },
     {
       "id": 531,
-      "amenity": "Rocking chair",
-      "amenity_de": "Schaukelstuhl"
+      "en": "Rocking chair",
+      "de": "Schaukelstuhl"
     },
     {
       "id": 532,
-      "amenity": "Rooftop",
-      "amenity_de": "Dachzugang"
+      "en": "Rooftop",
+      "de": "Dachzugang"
     },
     {
       "id": 533,
-      "amenity": "Rowing machine",
-      "amenity_de": "Rudergerät"
+      "en": "Rowing machine",
+      "de": "Rudergerät"
     },
     {
       "id": 534,
-      "amenity": "Safety deposit box",
-      "amenity_de": "Safe"
+      "en": "Safety deposit box",
+      "de": "Safe"
     },
     {
       "id": 535,
-      "amenity": "Safety gate",
-      "amenity_de": "Sicherheitstür"
+      "en": "Safety gate",
+      "de": "Sicherheitstür"
     },
     {
       "id": 536,
-      "amenity": "Safe room",
-      "amenity_de": "Sicherheitszimmer"
+      "en": "Safe room",
+      "de": "Sicherheitszimmer"
     },
     {
       "id": 537,
-      "amenity": "Saltwater hot tub",
-      "amenity_de": "Salzwasser-Whirlpool"
+      "en": "Saltwater hot tub",
+      "de": "Salzwasser-Whirlpool"
     },
     {
       "id": 538,
-      "amenity": "Saltwater infinity pool",
-      "amenity_de": "Salzwasser-Infinitypool"
+      "en": "Saltwater infinity pool",
+      "de": "Salzwasser-Infinitypool"
     },
     {
       "id": 539,
-      "amenity": "Saltwater pool",
-      "amenity_de": "Salzwasserpool"
+      "en": "Saltwater pool",
+      "de": "Salzwasserpool"
     },
     {
       "id": 540,
-      "amenity": "Sandbox",
-      "amenity_de": "Sandkasten"
+      "en": "Sandbox",
+      "de": "Sandkasten"
     },
     {
       "id": 541,
-      "amenity": "Satellite radio",
-      "amenity_de": "Satellitenradio"
+      "en": "Satellite radio",
+      "de": "Satellitenradio"
     },
     {
       "id": 542,
-      "amenity": "Satellite TV",
-      "amenity_de": "Satelliten-Fernsehen"
+      "en": "Satellite TV",
+      "de": "Satelliten-Fernsehen"
     },
     {
       "id": 543,
-      "amenity": "Scanner",
-      "amenity_de": "Scanner"
+      "en": "Scanner",
+      "de": "Scanner"
     },
     {
       "id": 544,
-      "amenity": "Security system",
-      "amenity_de": "Sicherheitssystem"
+      "en": "Security system",
+      "de": "Sicherheitssystem"
     },
     {
       "id": 545,
-      "amenity": "Shuffleboard",
-      "amenity_de": "Shuffleboard"
+      "en": "Shuffleboard",
+      "de": "Shuffleboard"
     },
     {
       "id": 546,
-      "amenity": "Ski locker",
-      "amenity_de": "Skischrank"
+      "en": "Ski locker",
+      "de": "Skischrank"
     },
     {
       "id": 547,
-      "amenity": "Ski rack",
-      "amenity_de": "Skiträger"
+      "en": "Ski rack",
+      "de": "Skiträger"
     },
     {
       "id": 548,
-      "amenity": "Ski room",
-      "amenity_de": "Skiraum"
+      "en": "Ski room",
+      "de": "Skiraum"
     },
     {
       "id": 549,
-      "amenity": "Sliding glass walls",
-      "amenity_de": "Glasschiebewände"
+      "en": "Sliding glass walls",
+      "de": "Glasschiebewände"
     },
     {
       "id": 550,
-      "amenity": "Smart home technology",
-      "amenity_de": "\\\"Smart Home\\\"-Technologie"
+      "en": "Smart home technology",
+      "de": "\\\"Smart Home\\\"-Technologie"
     },
     {
       "id": 551,
-      "amenity": "Smart lighting",
-      "amenity_de": "Intelligente Beleuchtung"
+      "en": "Smart lighting",
+      "de": "Intelligente Beleuchtung"
     },
     {
       "id": 552,
-      "amenity": "Smoking parlor",
-      "amenity_de": "Smoking parlor"
+      "en": "Smoking parlor",
+      "de": "Smoking parlor"
     },
     {
       "id": 553,
-      "amenity": "Snooker table",
-      "amenity_de": "Snooker table"
+      "en": "Snooker table",
+      "de": "Snooker table"
     },
     {
       "id": 554,
-      "amenity": "Solarium",
-      "amenity_de": "Solarium"
+      "en": "Solarium",
+      "de": "Solarium"
     },
     {
       "id": 555,
-      "amenity": "Sonos sound system",
-      "amenity_de": "Sonos-Soundsystem"
+      "en": "Sonos sound system",
+      "de": "Sonos-Soundsystem"
     },
     {
       "id": 556,
-      "amenity": "Spa",
-      "amenity_de": "Spa"
+      "en": "Spa",
+      "de": "Spa"
     },
     {
       "id": 557,
-      "amenity": "Spa access",
-      "amenity_de": "Spa access"
+      "en": "Spa access",
+      "de": "Spa access"
     },
     {
       "id": 558,
-      "amenity": "Spa room",
-      "amenity_de": "Spa"
+      "en": "Spa room",
+      "de": "Spa"
     },
     {
       "id": 559,
-      "amenity": "Speed boat",
-      "amenity_de": "Speed boat"
+      "en": "Speed boat",
+      "de": "Speed boat"
     },
     {
       "id": 560,
-      "amenity": "Sports bar",
-      "amenity_de": "Sport-Bar"
+      "en": "Sports bar",
+      "de": "Sport-Bar"
     },
     {
       "id": 561,
-      "amenity": "Staff kitchen",
-      "amenity_de": "Staff kitchen"
+      "en": "Staff kitchen",
+      "de": "Staff kitchen"
     },
     {
       "id": 562,
-      "amenity": "Steam bath",
-      "amenity_de": "Steam bath"
+      "en": "Steam bath",
+      "de": "Steam bath"
     },
     {
       "id": 563,
-      "amenity": "Stroller",
-      "amenity_de": "Stroller"
+      "en": "Stroller",
+      "de": "Stroller"
     },
     {
       "id": 564,
-      "amenity": "Sub-Zero refrigerator",
-      "amenity_de": "Sub-Zero refrigerator"
+      "en": "Sub-Zero refrigerator",
+      "de": "Sub-Zero refrigerator"
     },
     {
       "id": 565,
-      "amenity": "Sun bed",
-      "amenity_de": "Sun bed"
+      "en": "Sun bed",
+      "de": "Sun bed"
     },
     {
       "id": 566,
-      "amenity": "Sun deck",
-      "amenity_de": "Sonnendeck"
+      "en": "Sun deck",
+      "de": "Sonnendeck"
     },
     {
       "id": 567,
-      "amenity": "Surround sound system",
-      "amenity_de": "Surround sound system"
+      "en": "Surround sound system",
+      "de": "Surround sound system"
     },
     {
       "id": 568,
-      "amenity": "Swings",
-      "amenity_de": "Schaukeln"
+      "en": "Swings",
+      "de": "Schaukeln"
     },
     {
       "id": 569,
-      "amenity": "Tablet",
-      "amenity_de": "Tablet"
+      "en": "Tablet",
+      "de": "Tablet"
     },
     {
       "id": 570,
-      "amenity": "Tasting room",
-      "amenity_de": "Verkostungsraum"
+      "en": "Tasting room",
+      "de": "Verkostungsraum"
     },
     {
       "id": 571,
-      "amenity": "Tennis club",
-      "amenity_de": "Tennis club"
+      "en": "Tennis club",
+      "de": "Tennis club"
     },
     {
       "id": 572,
-      "amenity": "Tivo",
-      "amenity_de": "Tivo"
+      "en": "Tivo",
+      "de": "Tivo"
     },
     {
       "id": 573,
-      "amenity": "Trail access",
-      "amenity_de": "Trail access"
+      "en": "Trail access",
+      "de": "Trail access"
     },
     {
       "id": 574,
-      "amenity": "Treadmill",
-      "amenity_de": "Laufband"
+      "en": "Treadmill",
+      "de": "Laufband"
     },
     {
       "id": 575,
-      "amenity": "Trellised courtyard",
-      "amenity_de": "Vergitterter Innenhof"
+      "en": "Trellised courtyard",
+      "de": "Vergitterter Innenhof"
     },
     {
       "id": 576,
-      "amenity": "Turkish bath",
-      "amenity_de": "Türkisches Bad"
+      "en": "Turkish bath",
+      "de": "Türkisches Bad"
     },
     {
       "id": 577,
-      "amenity": "Veranda",
-      "amenity_de": "Veranda"
+      "en": "Veranda",
+      "de": "Veranda"
     },
     {
       "id": 578,
-      "amenity": "View tower",
-      "amenity_de": "View tower"
+      "en": "View tower",
+      "de": "View tower"
     },
     {
       "id": 579,
-      "amenity": "Vitamix blender",
-      "amenity_de": "Vitamix blender"
+      "en": "Vitamix blender",
+      "de": "Vitamix blender"
     },
     {
       "id": 580,
-      "amenity": "VoIP phone",
-      "amenity_de": "VoIP-Telefon"
+      "en": "VoIP phone",
+      "de": "VoIP-Telefon"
     },
     {
       "id": 581,
-      "amenity": "Volleyball court",
-      "amenity_de": "Volleyballplatz"
+      "en": "Volleyball court",
+      "de": "Volleyballplatz"
     },
     {
       "id": 582,
-      "amenity": "Walk-in pantry",
-      "amenity_de": "Walk-in pantry"
+      "en": "Walk-in pantry",
+      "de": "Walk-in pantry"
     },
     {
       "id": 583,
-      "amenity": "Water skis",
-      "amenity_de": "Water skis"
+      "en": "Water skis",
+      "de": "Water skis"
     },
     {
       "id": 584,
-      "amenity": "Wave pool",
-      "amenity_de": "Wave pool"
+      "en": "Wave pool",
+      "de": "Wave pool"
     },
     {
       "id": 585,
-      "amenity": "Wet bar",
-      "amenity_de": "Wet bar"
+      "en": "Wet bar",
+      "de": "Wet bar"
     },
     {
       "id": 586,
-      "amenity": "Wine bar",
-      "amenity_de": "Wine bar"
+      "en": "Wine bar",
+      "de": "Wine bar"
     },
     {
       "id": 587,
-      "amenity": "Wine cave",
-      "amenity_de": "Wine cave"
+      "en": "Wine cave",
+      "de": "Wine cave"
     },
     {
       "id": 588,
-      "amenity": "Wine collection",
-      "amenity_de": "Wine collection"
+      "en": "Wine collection",
+      "de": "Wine collection"
     },
     {
       "id": 589,
-      "amenity": "Wine room",
-      "amenity_de": "Weinstube"
+      "en": "Wine room",
+      "de": "Weinstube"
     },
     {
       "id": 590,
-      "amenity": "Wine storage",
-      "amenity_de": "Wine storage"
+      "en": "Wine storage",
+      "de": "Wine storage"
     },
     {
       "id": 591,
-      "amenity": "Wireless intercom",
-      "amenity_de": "Wireless intercom"
+      "en": "Wireless intercom",
+      "de": "Wireless intercom"
     },
     {
       "id": 592,
-      "amenity": "Wood-burning fireplace",
-      "amenity_de": "Holzkamin"
+      "en": "Wood-burning fireplace",
+      "de": "Holzkamin"
     },
     {
       "id": 593,
-      "amenity": "Wood-burning oven",
-      "amenity_de": "Wood-burning oven"
+      "en": "Wood-burning oven",
+      "de": "Wood-burning oven"
     },
     {
       "id": 594,
-      "amenity": "Wood-burning stove",
-      "amenity_de": "Wood-burning stove"
+      "en": "Wood-burning stove",
+      "de": "Wood-burning stove"
     },
     {
       "id": 595,
-      "amenity": "Workout bench",
-      "amenity_de": "Workout bench"
+      "en": "Workout bench",
+      "de": "Workout bench"
     },
     {
       "id": 596,
-      "amenity": "Xbox",
-      "amenity_de": "Xbox"
+      "en": "Xbox",
+      "de": "Xbox"
     },
     {
       "id": 597,
-      "amenity": "Yoga studio",
-      "amenity_de": "Yoga studio"
+      "en": "Yoga studio",
+      "de": "Yoga studio"
     },
     {
       "id": 598,
-      "amenity": "Zip-line",
-      "amenity_de": "Zip-Line"
+      "en": "Zip-line",
+      "de": "Zip-Line"
     },
     {
       "id": 599,
-      "amenity": "Covered parking",
-      "amenity_de": "Überdachter Parkplatz"
+      "en": "Covered parking",
+      "de": "Überdachter Parkplatz"
     },
     {
       "id": 600,
-      "amenity": "Parking",
-      "amenity_de": "Parking"
+      "en": "Parking",
+      "de": "Parking"
     },
     {
       "id": 601,
-      "amenity": "Office",
-      "amenity_de": "Büro"
+      "en": "Office",
+      "de": "Büro"
     },
     {
       "id": 602,
-      "amenity": "Table Top Grill",
-      "amenity_de": "Tischgrill"
+      "en": "Table Top Grill",
+      "de": "Tischgrill"
     },
     {
       "id": 603,
-      "amenity": "Racquetball court",
-      "amenity_de": "Racquetball-Platz"
+      "en": "Racquetball court",
+      "de": "Racquetball-Platz"
     },
     {
       "id": 604,
-      "amenity": "Squash court",
-      "amenity_de": "Squash-Platz"
+      "en": "Squash court",
+      "de": "Squash-Platz"
     },
     {
       "id": 605,
-      "amenity": "Basketball court",
-      "amenity_de": "Basketball-Platz"
+      "en": "Basketball court",
+      "de": "Basketball-Platz"
     },
     {
       "id": 606,
-      "amenity": "Step-free access",
-      "amenity_de": "Stufenfreier Zugang"
+      "en": "Step-free access",
+      "de": "Stufenfreier Zugang"
     },
     {
       "id": 607,
-      "amenity": "Entrance wider than 32 inches",
-      "amenity_de": "Entrance wider than 32 inches"
+      "en": "Entrance wider than 32 inches",
+      "de": "Entrance wider than 32 inches"
     },
     {
       "id": 608,
-      "amenity": "Extra space around toilet",
-      "amenity_de": "Extra space around toilet"
+      "en": "Extra space around toilet",
+      "de": "Extra space around toilet"
     },
     {
       "id": 609,
-      "amenity": "Extra space around shower",
-      "amenity_de": "Extra viel Platz rund um die Dusche"
+      "en": "Extra space around shower",
+      "de": "Extra viel Platz rund um die Dusche"
     },
     {
       "id": 610,
-      "amenity": "Towel",
-      "amenity_de": "Towel"
+      "en": "Towel",
+      "de": "Towel"
     },
     {
       "id": 611,
-      "amenity": "Shower gel",
-      "amenity_de": "Duschgel"
+      "en": "Shower gel",
+      "de": "Duschgel"
     },
     {
       "id": 612,
-      "amenity": "Tissue",
-      "amenity_de": "Tissue"
+      "en": "Tissue",
+      "de": "Tissue"
     },
     {
       "id": 613,
-      "amenity": "Pillow",
-      "amenity_de": "Pillow"
+      "en": "Pillow",
+      "de": "Pillow"
     },
     {
       "id": 614,
-      "amenity": "Duvet cover",
-      "amenity_de": "Duvet cover"
+      "en": "Duvet cover",
+      "de": "Duvet cover"
     },
     {
       "id": 615,
-      "amenity": "Front desk",
-      "amenity_de": "Front desk"
+      "en": "Front desk",
+      "de": "Front desk"
     },
     {
       "id": 616,
-      "amenity": "Room service",
-      "amenity_de": "Room service"
+      "en": "Room service",
+      "de": "Room service"
     },
     {
       "id": 617,
-      "amenity": "can provide invoice",
-      "amenity_de": "kann eine Rechnung ausstellen"
+      "en": "can provide invoice",
+      "de": "kann eine Rechnung ausstellen"
     },
     {
       "id": 618,
-      "amenity": "Street facing",
-      "amenity_de": "Street facing"
+      "en": "Street facing",
+      "de": "Street facing"
     },
     {
       "id": 619,
-      "amenity": "Double-pane window",
-      "amenity_de": "Double-pane window"
+      "en": "Double-pane window",
+      "de": "Double-pane window"
     },
     {
       "id": 620,
-      "amenity": "Floor-to-ceiling window",
-      "amenity_de": "Bodentiefe Fenster"
+      "en": "Floor-to-ceiling window",
+      "de": "Bodentiefe Fenster"
     },
     {
       "id": 621,
-      "amenity": "Nintendo Switch",
-      "amenity_de": "Nintendo Switch"
+      "en": "Nintendo Switch",
+      "de": "Nintendo Switch"
     },
     {
       "id": 622,
-      "amenity": "Nintendo FC",
-      "amenity_de": "Nintendo FC"
+      "en": "Nintendo FC",
+      "de": "Nintendo FC"
     },
     {
       "id": 623,
-      "amenity": "Werewolf game",
-      "amenity_de": "Gesellschaftsspiel \\\"Die Werwölfe von Düsterwald\\"
+      "en": "Werewolf game",
+      "de": "Gesellschaftsspiel \\\"Die Werwölfe von Düsterwald\\"
     },
     {
       "id": 624,
-      "amenity": "Legends of the Three Kingdoms",
-      "amenity_de": "Legends of the Three Kingdoms"
+      "en": "Legends of the Three Kingdoms",
+      "de": "Legends of the Three Kingdoms"
     },
     {
       "id": 625,
-      "amenity": "Baking sheet",
-      "amenity_de": "Backblech"
+      "en": "Baking sheet",
+      "de": "Backblech"
     },
     {
       "id": 626,
-      "amenity": "Barbecue utensils",
-      "amenity_de": "Grillbesteck"
+      "en": "Barbecue utensils",
+      "de": "Grillbesteck"
     },
     {
       "id": 627,
-      "amenity": "Trash can",
-      "amenity_de": "Mülltonne"
+      "en": "Trash can",
+      "de": "Mülltonne"
     },
     {
       "id": 628,
-      "amenity": "Snacks",
-      "amenity_de": "Snacks"
+      "en": "Snacks",
+      "de": "Snacks"
     },
     {
       "id": 629,
-      "amenity": "Bottled water",
-      "amenity_de": "Tafelwasser"
+      "en": "Bottled water",
+      "de": "Tafelwasser"
     },
     {
       "id": 630,
-      "amenity": "Fruit",
-      "amenity_de": "Obst"
+      "en": "Fruit",
+      "de": "Obst"
     },
     {
       "id": 631,
-      "amenity": "Liquor",
-      "amenity_de": "Spirituosen"
+      "en": "Liquor",
+      "de": "Spirituosen"
     },
     {
       "id": 632,
-      "amenity": "Bread maker",
-      "amenity_de": "Brotbackautomat"
+      "en": "Bread maker",
+      "de": "Brotbackautomat"
     },
     {
       "id": 633,
-      "amenity": "Airport shuttle",
-      "amenity_de": "Airport shuttle"
+      "en": "Airport shuttle",
+      "de": "Airport shuttle"
     },
     {
       "id": 634,
-      "amenity": "Offsite gym",
-      "amenity_de": "Offsite gym"
+      "en": "Offsite gym",
+      "de": "Offsite gym"
     },
     {
       "id": 635,
-      "amenity": "Valet parking",
-      "amenity_de": "Valet parking"
+      "en": "Valet parking",
+      "de": "Valet parking"
     },
     {
       "id": 636,
-      "amenity": "Self parking",
-      "amenity_de": "Parkplatz"
+      "en": "Self parking",
+      "de": "Parkplatz"
     },
     {
       "id": 637,
-      "amenity": "Housekeeping",
-      "amenity_de": "Raumpflege"
+      "en": "Housekeeping",
+      "de": "Raumpflege"
     },
     {
       "id": 638,
-      "amenity": "Laundry services",
-      "amenity_de": "Wäscheservice"
+      "en": "Laundry services",
+      "de": "Wäscheservice"
     },
     {
       "id": 639,
-      "amenity": "Speaker",
-      "amenity_de": "Speaker"
+      "en": "Speaker",
+      "de": "Speaker"
     },
     {
       "id": 640,
-      "amenity": "Turndown service",
-      "amenity_de": "Turndown-Service"
+      "en": "Turndown service",
+      "de": "Turndown-Service"
     },
     {
       "id": 641,
-      "amenity": "Multiple language",
-      "amenity_de": "Mehrere Sprachen"
+      "en": "Multiple language",
+      "de": "Mehrere Sprachen"
     },
     {
       "id": 642,
-      "amenity": "Casino",
-      "amenity_de": "Casino"
+      "en": "Casino",
+      "de": "Casino"
     },
     {
       "id": 643,
-      "amenity": "All inclusive",
-      "amenity_de": "All inclusive"
+      "en": "All inclusive",
+      "de": "All inclusive"
     },
     {
       "id": 644,
-      "amenity": "Concierge",
-      "amenity_de": "Concierge"
+      "en": "Concierge",
+      "de": "Concierge"
     },
     {
       "id": 645,
-      "amenity": "House bikes",
-      "amenity_de": "Zum Haus gehörende Fahrräder"
+      "en": "House bikes",
+      "de": "Zum Haus gehörende Fahrräder"
     },
     {
       "id": 646,
-      "amenity": "Ball pit",
-      "amenity_de": "Ball pit"
+      "en": "Ball pit",
+      "de": "Ball pit"
     },
     {
       "id": 647,
-      "amenity": "Slide",
-      "amenity_de": "Slide"
+      "en": "Slide",
+      "de": "Slide"
     },
     {
       "id": 648,
-      "amenity": "Disinfection Cleaning",
-      "amenity_de": "Disinfection Cleaning"
+      "en": "Disinfection Cleaning",
+      "de": "Disinfection Cleaning"
     },
     {
       "id": 649,
-      "amenity": "Hand Sanitiser",
-      "amenity_de": "Handdesinfektionsmittel"
+      "en": "Hand Sanitiser",
+      "de": "Handdesinfektionsmittel"
     },
     {
       "id": 650,
-      "amenity": "Household Disinfectant",
-      "amenity_de": "Desinfektionsmittel für den Haushalt"
+      "en": "Household Disinfectant",
+      "de": "Desinfektionsmittel für den Haushalt"
     },
     {
       "id": 651,
-      "amenity": "Antibacterial solutions",
-      "amenity_de": "Antibakterielle Lösungen"
+      "en": "Antibacterial solutions",
+      "de": "Antibakterielle Lösungen"
     },
     {
       "id": 652,
-      "amenity": "Thermometer",
-      "amenity_de": "Thermometer"
+      "en": "Thermometer",
+      "de": "Thermometer"
     },
     {
       "id": 653,
-      "amenity": "Disposable gloves",
-      "amenity_de": "Einweghandschuhe"
+      "en": "Disposable gloves",
+      "de": "Einweghandschuhe"
     },
     {
       "id": 654,
-      "amenity": "Non-slip mat",
-      "amenity_de": "Rutschfeste Matte"
+      "en": "Non-slip mat",
+      "de": "Rutschfeste Matte"
     },
     {
       "id": 655,
-      "amenity": "24-hour security guard",
-      "amenity_de": "24-hour security guard"
+      "en": "24-hour security guard",
+      "de": "24-hour security guard"
     },
     {
       "id": 656,
-      "amenity": "Natural gas alarm",
-      "amenity_de": "Erdgas-Melder"
+      "en": "Natural gas alarm",
+      "de": "Erdgas-Melder"
     },
     {
       "id": 657,
-      "amenity": "Conditioner",
-      "amenity_de": "Conditioner"
+      "en": "Conditioner",
+      "de": "Conditioner"
     },
     {
       "id": 658,
-      "amenity": "Bed sheets",
-      "amenity_de": "Bed sheets"
+      "en": "Bed sheets",
+      "de": "Bed sheets"
     },
     {
       "id": 659,
-      "amenity": "Parking lot",
-      "amenity_de": "Parking lot"
+      "en": "Parking lot",
+      "de": "Parking lot"
     },
     {
       "id": 660,
-      "amenity": "Carport",
-      "amenity_de": "Carport"
+      "en": "Carport",
+      "de": "Carport"
     },
     {
       "id": 661,
-      "amenity": "Trash compactor",
-      "amenity_de": "Müllpresse"
+      "en": "Trash compactor",
+      "de": "Müllpresse"
     },
     {
       "id": 662,
-      "amenity": "Portable bluetooth speaker",
-      "amenity_de": "Portable bluetooth speaker"
+      "en": "Portable bluetooth speaker",
+      "de": "Portable bluetooth speaker"
     },
     {
       "id": 663,
-      "amenity": "Laundromat nearby",
-      "amenity_de": "Waschsalon in der Nähe"
+      "en": "Laundromat nearby",
+      "de": "Waschsalon in der Nähe"
     },
     {
       "id": 664,
-      "amenity": "Boat slip",
-      "amenity_de": "Bootsrampe"
+      "en": "Boat slip",
+      "de": "Bootsrampe"
     },
     {
       "id": 665,
-      "amenity": "Cleaning products",
-      "amenity_de": "Reinigungsprodukte"
+      "en": "Cleaning products",
+      "de": "Reinigungsprodukte"
     },
     {
       "id": 666,
-      "amenity": "Clothes rack",
-      "amenity_de": "Clothes rack"
+      "en": "Clothes rack",
+      "de": "Clothes rack"
     },
     {
       "id": 667,
-      "amenity": "Drying rack for clothing",
-      "amenity_de": "Wäscheständer für Kleidung"
+      "en": "Drying rack for clothing",
+      "de": "Wäscheständer für Kleidung"
     },
     {
       "id": 668,
-      "amenity": "Shower cap",
-      "amenity_de": "Shower cap"
+      "en": "Shower cap",
+      "de": "Shower cap"
     },
     {
       "id": 669,
-      "amenity": "toilet",
-      "amenity_de": "Toilette"
+      "en": "toilet",
+      "de": "Toilette"
     },
     {
       "id": 670,
-      "amenity": "toothbrush",
-      "amenity_de": "Zahnbürste"
+      "en": "toothbrush",
+      "de": "Zahnbürste"
     },
     {
       "id": 671,
-      "amenity": "Clothing storage",
-      "amenity_de": "Aufbewahrung von Kleidung"
+      "en": "Clothing storage",
+      "de": "Aufbewahrung von Kleidung"
     },
     {
       "id": 672,
-      "amenity": "Wine glasses",
-      "amenity_de": "Weingläser"
+      "en": "Wine glasses",
+      "de": "Weingläser"
     },
     {
       "id": 673,
-      "amenity": "Wine or champagne",
-      "amenity_de": "Wine or champagne"
+      "en": "Wine or champagne",
+      "de": "Wine or champagne"
     },
     {
       "id": 674,
-      "amenity": "Beach access",
-      "amenity_de": "Zugang zum Strand"
+      "en": "Beach access",
+      "de": "Zugang zum Strand"
     },
     {
       "id": 675,
-      "amenity": "baking supplies",
-      "amenity_de": "Backzubehör"
+      "en": "baking supplies",
+      "de": "Backzubehör"
     },
     {
       "id": 676,
-      "amenity": "water purifier",
-      "amenity_de": "Wasserreiniger"
+      "en": "water purifier",
+      "de": "Wasserreiniger"
     },
     {
       "id": 677,
-      "amenity": "lunch",
-      "amenity_de": "lunch"
+      "en": "lunch",
+      "de": "lunch"
     },
     {
       "id": 678,
-      "amenity": "dinner",
-      "amenity_de": "dinner"
+      "en": "dinner",
+      "de": "dinner"
     },
     {
       "id": 679,
-      "amenity": "host accompanied tour",
-      "amenity_de": "Ausflug in Begleitung des Gastgebers oder der Gastgeberin"
+      "en": "host accompanied tour",
+      "de": "Ausflug in Begleitung des Gastgebers oder der Gastgeberin"
     },
     {
       "id": 680,
-      "amenity": "Bikes",
-      "amenity_de": "Fahrräder"
+      "en": "Bikes",
+      "de": "Fahrräder"
     },
     {
       "id": 681,
-      "amenity": "fresh air system",
-      "amenity_de": "Frischluftsystem"
+      "en": "fresh air system",
+      "de": "Frischluftsystem"
     },
     {
       "id": 682,
-      "amenity": "mosquito control products",
-      "amenity_de": "Mückenschutzutensilien"
+      "en": "mosquito control products",
+      "de": "Mückenschutzutensilien"
     },
     {
       "id": 683,
-      "amenity": "laundry supplies",
-      "amenity_de": "Wäschepflegemittel"
+      "en": "laundry supplies",
+      "de": "Wäschepflegemittel"
     },
     {
       "id": 684,
-      "amenity": "Bowling alley",
-      "amenity_de": "Bowlingbahn"
+      "en": "Bowling alley",
+      "de": "Bowlingbahn"
     },
     {
       "id": 685,
-      "amenity": "Hockey rink",
-      "amenity_de": "Eishockeyhalle"
+      "en": "Hockey rink",
+      "de": "Eishockeyhalle"
     },
     {
       "id": 686,
-      "amenity": "Theme room",
-      "amenity_de": "Themenzimmer"
+      "en": "Theme room",
+      "de": "Themenzimmer"
     },
     {
       "id": 687,
-      "amenity": "Life size games",
-      "amenity_de": "XXL-Spiele"
+      "en": "Life size games",
+      "de": "XXL-Spiele"
     },
     {
       "id": 688,
-      "amenity": "Skate ramp",
-      "amenity_de": "Skateboard-Rampe"
+      "en": "Skate ramp",
+      "de": "Skateboard-Rampe"
     },
     {
       "id": 689,
-      "amenity": "Mini golf",
-      "amenity_de": "Minigolf"
+      "en": "Mini golf",
+      "de": "Minigolf"
     },
     {
       "id": 690,
-      "amenity": "Laser tag",
-      "amenity_de": "Laser Tag"
+      "en": "Laser tag",
+      "de": "Laser Tag"
     },
     {
       "id": 691,
-      "amenity": "Sports field",
-      "amenity_de": "Sports field"
+      "en": "Sports field",
+      "de": "Sports field"
     },
     {
       "id": 692,
-      "amenity": "Sports court",
-      "amenity_de": "Sports court"
+      "en": "Sports court",
+      "de": "Sports court"
     },
     {
       "id": 693,
-      "amenity": "Childrens bikes",
-      "amenity_de": "Kinderfahrräder"
+      "en": "Childrens bikes",
+      "de": "Kinderfahrräder"
     },
     {
       "id": 694,
-      "amenity": "Sports track",
-      "amenity_de": "Leichtathletikgelände"
+      "en": "Sports track",
+      "de": "Leichtathletikgelände"
     },
     {
       "id": 695,
-      "amenity": "Batting cage",
-      "amenity_de": "Batting Cage"
+      "en": "Batting cage",
+      "de": "Batting Cage"
     },
     {
       "id": 696,
-      "amenity": "Outdoor fireplace",
-      "amenity_de": "Outdoor fireplace"
+      "en": "Outdoor fireplace",
+      "de": "Outdoor fireplace"
     },
     {
       "id": 697,
-      "amenity": "Whirlpool",
-      "amenity_de": "Whirlpool"
+      "en": "Whirlpool",
+      "de": "Whirlpool"
     },
     {
       "id": 698,
-      "amenity": "Airport transfer",
-      "amenity_de": "Airport transfer"
+      "en": "Airport transfer",
+      "de": "Airport transfer"
     },
     {
       "id": 699,
-      "amenity": "Car rental",
-      "amenity_de": "Car rental"
+      "en": "Car rental",
+      "de": "Car rental"
     },
     {
       "id": 700,
-      "amenity": "Pre-stocking",
-      "amenity_de": "Lebensmittelvorrat"
+      "en": "Pre-stocking",
+      "de": "Lebensmittelvorrat"
     },
     {
       "id": 701,
-      "amenity": "Childcare",
-      "amenity_de": "Kinderbetreuung"
+      "en": "Childcare",
+      "de": "Kinderbetreuung"
     },
     {
       "id": 702,
-      "amenity": "Cook",
-      "amenity_de": "Koch/Köchin"
+      "en": "Cook",
+      "de": "Koch/Köchin"
     },
     {
       "id": 703,
-      "amenity": "Chef",
-      "amenity_de": "Chef"
+      "en": "Chef",
+      "de": "Chef"
     },
     {
       "id": 704,
-      "amenity": "Waitstaff",
-      "amenity_de": "Waitstaff"
+      "en": "Waitstaff",
+      "de": "Waitstaff"
     },
     {
       "id": 705,
-      "amenity": "Butler",
-      "amenity_de": "Butler:in"
+      "en": "Butler",
+      "de": "Butler:in"
     },
     {
       "id": 706,
-      "amenity": "Driver",
-      "amenity_de": "Fahrer:in"
+      "en": "Driver",
+      "de": "Fahrer:in"
     },
     {
       "id": 707,
-      "amenity": "Bartender",
-      "amenity_de": "Bartender"
+      "en": "Bartender",
+      "de": "Bartender"
     },
     {
       "id": 708,
-      "amenity": "Security guard",
-      "amenity_de": "Security guard"
+      "en": "Security guard",
+      "de": "Security guard"
     },
     {
       "id": 709,
-      "amenity": "Property manager",
-      "amenity_de": "Vermieter:in und Verwalter:in von Unterkünften"
+      "en": "Property manager",
+      "de": "Vermieter:in und Verwalter:in von Unterkünften"
     },
     {
       "id": 710,
-      "amenity": "Spa services",
-      "amenity_de": "Wellness-Services"
+      "en": "Spa services",
+      "de": "Wellness-Services"
     }
   ]
