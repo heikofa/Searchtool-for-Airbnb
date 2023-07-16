@@ -363,7 +363,7 @@
           // Iterate over each item in the JSON data
           console.log(jsonData)
           jsonData.sort(function(a, b) {
-            return a[langCode].localCompare(b[langCode]);
+            return a[langCode].localeCompare(b[langCode]);
           });
           console.log(jsonData)
           for(let i=0;i<jsonData.length; i++){
