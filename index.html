@@ -339,7 +339,7 @@
     $(document).ready(function() {
       parseLangCode()
       // Load JSON data from file
-      $.getJSON('countries.json', function(jsonData) {
+      $.getJSON('data/countries.json', function(jsonData) {
           countries= jsonData.map(a => a[langCode]);
           countries.sort()          
           for(let i=0;i<countries.length; i++){            
@@ -347,7 +347,7 @@
             document.getElementById("country").insertAdjacentHTML( 'beforeend', str );              
           } 
       });
-      $.getJSON('localization.json', function(localizationObject) {
+      $.getJSON('data/localization.json', function(localizationObject) {
         localization=localizationObject
         // Iterate over each item in the JSON data    
         for(key of Object.keys(localizationObject)){            
@@ -359,7 +359,7 @@
         } 
       });
       // Load JSON data from file
-      $.getJSON('codes.json', function(jsonData) {
+      $.getJSON('data/codes.json', function(jsonData) {
           // Iterate over each item in the JSON data
           console.log(jsonData)
           jsonData.sort(function(a, b) {
