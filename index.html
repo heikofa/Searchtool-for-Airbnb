@@ -172,8 +172,21 @@
   
 </head>
 <body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light container">    
+    <a class="navbar-brand" href="#">Search URL Generator for Airbnb*</a>
+    <div class="navbar-collapse justify-content-end" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <img id="current_flag_icon" src="img/en-flag-icon.svg" width="30" alt="English Flag">
+          </a>
+          <ul class="dropdown-menu" id="dropdown_languages" style="min-width: auto;">
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </nav>
   <div class="container mt-5">
-    <h1>Search URL Generator for Airbnb*</h1>
     <form>
       <div class="mb-3">
         <label for="url-field" class="form-label" id="Generated URL"></label>
@@ -354,9 +367,13 @@
           tag=document.getElementById(localizationObject[key]["en"])
           if(tag!= null){
             tag.innerHTML=localize(key) 
-          }
-                       
+          }      
         } 
+        document.getElementById("current_flag_icon").innerHTML='<img src="img/'+langCode+'-flag-icon.svg" width="30" alt="'+langCode+'"/>'
+        for(key of Object.keys(localization[0])){
+          li='<li><a class="dropdown-item" href="/?lang='+key+'"><img src="img/'+key+'-flag-icon.svg" width="30" alt="'+key+'"/></a></li>'
+          document.getElementById("dropdown_languages").insertAdjacentHTML( 'beforeend', li );
+        }            
       });
       // Load JSON data from file
       $.getJSON('data/codes.json', function(jsonData) {
