@@ -350,7 +350,7 @@
       });
       $.getJSON('localization.json', function(localizationObject) {
           // Iterate over each item in the JSON data    
-          for(key of localizationObject.keys(localizationObject)){            
+          for(key of Object.keys(localizationObject)){            
             tag=document.getElementById(localizationObject[key]["en"])
             if(tag!= null){
               tag.innerHTML=localizationObject[key][getLangCode()]; 
