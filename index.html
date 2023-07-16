@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
   <script>
     var localization={}
+    var langCode
     function decreaseCount(category) {
       var countField = document.getElementById(category);
       var count = parseInt(countField.value);
@@ -16,17 +17,18 @@
         generateURL();
       }
     }
-    function getLangCode(){
+    function parseLangCode(){
       url = new URL(window.location.toLocaleString())
       urlParams=url.searchParams
       if(!urlParams.has("lang")){
-        return "en"
+        langCode= "en"
+        return
       }
-      return urlParams.get('lang')
+      langCode=urlParams.get('lang')
       
     }
     function localize(str){
-      return localization[str][getLangCode()]
+      return localization[str][langCode]
     }
     function increaseCount(category) {
       var countField = document.getElementById(category);
@@ -335,9 +337,10 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
   <script>
     $(document).ready(function() {
+      parseLangCode()
       // Load JSON data from file
       $.getJSON('countries.json', function(jsonData) {
-          countries= jsonData.map(a => a[getLangCode()]);
+          countries= jsonData.map(a => a[langCode]);
           countries.sort()          
           for(let i=0;i<countries.length; i++){            
             str='<option value="'+countries[i]+'">'+countries[i]+'</option>'
