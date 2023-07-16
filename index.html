@@ -353,7 +353,7 @@
           for(let i=0;i<jsonData.length; i++){            
             tag=document.getElementById(jsonData[i]["en"])
             if(tag!= null){
-              tag.innerHTML(jsonData[i][getLangCode()]); 
+              tag.innerHTML=jsonData[i][getLangCode()]; 
             }
                          
           } 
