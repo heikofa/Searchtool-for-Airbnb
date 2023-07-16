@@ -26,7 +26,7 @@
       
     }
     function localize(str){
-      return localization[str][getLangCode]
+      return localization[str][getLangCode()]
     }
     function increaseCount(category) {
       var countField = document.getElementById(category);
