@@ -363,9 +363,9 @@
           // Iterate over each item in the JSON data
           console.log(jsonData)
           jsonData.sort(function(a, b) {
-          console.log(jsonData)
             return a[langCode] - b[langCode];
           });
+          console.log(jsonData)
           for(let i=0;i<jsonData.length; i++){
             colum="amenityThirdColum"
             if(i<2*Math.ceil(jsonData.length/3)){
